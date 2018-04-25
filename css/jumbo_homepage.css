@@ -1,0 +1,33 @@
+.custom-container {
+  padding-top: 10px;
+}
+
+#home-title {
+  margin-top: 45px;
+  font-weight: 900;
+  margin-left: 50px;
+}
+
+#home-name {
+  font-weight: 400;
+  margin-left: 50px;
+}
+
+#img-jumbo {
+  width: 37.5%;
+  height: 100%;
+  float: right;
+  margin-top: 45px;
+}
+
+.code-block {
+  font-size: 16px;
+  font-family: monospace;
+  max-width: 50%;
+  overflow: auto;
+}
+
+.home-header {
+  margin-left: 10px;
+  font-family: Roboto, Arial;
+}
