@@ -2,13 +2,17 @@
 title: Video | Gatya Developer
 layout: default
 ---
+
 <div class="custom-container">
   <ul class="list-group list-group-flush">
-    {% for video in site.data.video_url reversed %}
+    {% for playlist in site.data.video_url reversed %}
     <li class="list-group-item">
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="{{ video.url }}" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="{{ playlist.url }}" allowfullscreen></iframe>
       </div>
+      <ol class="breadcrumb custom-breadcrumb">
+        <li class="breadcrumb-item">{{ playlist.title }}</li>
+      </ol>
     </li>
     {% endfor %}
   </ul>
