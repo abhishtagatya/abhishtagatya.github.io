@@ -1,0 +1,37 @@
+[
+  {
+    "name" : "🤖 PyLINE Bot",
+    "url" : "https://github.com/abhishtagatya/pyline-bot",
+    "image" : "img/project/pyline-preview.jpeg",
+    "description" : "Simple LINE Bot Template created by <a href='https://github.com/reopucino/pyline-bot'>reopucino</a>, maintained and updated regularly by me.",
+    "commit" : "March 11 2018"
+  },
+  {
+    "name" : "🐍 dotPython LINE Chat Course",
+    "url" : "https://github.com/abhishtagatya/dotPythonBOT",
+    "image" : "img/project/dotpython-preview.jpeg",
+    "description" : "Python Chat Course in LINE Messenger by <a href=''>dotLearn</a>",
+    "commit" : "March 31 2018"
+  },
+  {
+    "name" : "📚 typeDef File Wiki",
+    "url" : "https://github.com/abhishtagatya/typeDef",
+    "image" : "img/project/typedef-preview.jpeg",
+    "description" : "A terminal wiki for file types and extensions",
+    "commit" : "April 6 2018"
+  },
+  {
+    "name" : "📝 Ipsum Chrome Extension",
+    "url" : "https://github.com/abhishtagatya/ipsum-chrome-ext",
+    "image" : "img/project/ipsum-preview.jpeg",
+    "description" : "Dummy Text Generator Chrome Extension (WIP)",
+    "commit" : "Apr 21 2018"
+  },
+  {
+    "name" : "📨 PyMail",
+    "url" : "https://github.com/abhishtagatya/pyMail",
+    "image" : "img/project/pymail-preview.jpeg",
+    "description" : "Mail Client using Python's SMTPLib and Flask (Just for Experimental)",
+    "commit" : "Apr 23 2018"
+  }
+]

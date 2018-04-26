@@ -17,52 +17,18 @@
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{site.baseurl}}/css/master.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/project-card.css">
   <link rel="stylesheet" href="{{site.baseurl}}/css/jumbo-homepage.css">
-  <link rel="stylesheet" href="{{site.baseurl}}/css/footer-distributed.css">
   <link rel="stylesheet" href="{{site.baseurl}}/css/css-bootstrap/bootstrap.css" />
   <title>{{site.title}}</title>
 </head>
 
 <body>
-  <nav class="navbar navbar-light">
-    <a class="navbar-brand custom-title" href="#" title="Designer and Tech Enthusiast">
-    <img src="img/logo.png" width="30" height="30" class="d-inline-block align-top" alt="Logo">
-    Gatya
-  </a>
-    <ul class="nav nav-pills nav-fill custom-pill-black">
-      <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/index.html">Home</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/project.html">Projects</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/video.html">Videos</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{site.baseurl}}/about.html">About</a>
-      </li>
-    </ul>
-  </nav>
+  {% include nav.html %}
 
   {{content}}
 
-  <footer class="footer-distributed">
-
-    <div class="footer-right">
-
-      <a href="https://www.youtube.com/channel/UC5rirO_FeyaJ1E261l_qTww"><i class="fa fa-youtube"></i></a>
-      <a href="http://instagram.com/abhishtagatya"><i class="fa fa-instagram"></i></a>
-      <a href="https://codepen.io/YouCode/"><i class="fa fa-codepen"></i></a>
-      <a href="https://github.com/abhishtagatya"><i class="fa fa-github"></i></a>
-
-    </div>
-
-    <div class="footer-left">
-      <p class="text-muted">Simple as it should be <br>- Abhishta Gatya</p>
-    </div>
-
-  </footer>
+  {% include footer.html %}
 
 </body>
 

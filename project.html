@@ -1,3 +1,17 @@
 ---
+title: Project | Gatya Developer
 layout: default
 ---
+
+<div class="container custom-container">
+  {% for project in site.data.project reversed %}
+  <div class="card mb-3">
+    <a href="{{ project.url }}"><img class="card-img-top custom-card-img" src="{{ project.image }}" alt="Card image cap"></a>
+    <div class="card-body">
+      <h5 class="card-title custom-card-title">{{ project.name }}</h5>
+      <p class="card-text">{{ project.description }}</p>
+      <p class="card-text"><small class="text-muted">Last updated {{ project.commit }}</small></p>
+    </div>
+  </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,13 @@
+.custom-card-title {
+  font-family: Roboto, Arial;
+  font-weight: 900;
+}
+
+.custom-card-title:hover {
+  color: #555;
+  cursor: pointer;
+}
+
+@media screen and (max-width : 580px) {
+
+}

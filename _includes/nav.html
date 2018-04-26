@@ -1,0 +1,20 @@
+<nav class="navbar navbar-light">
+  <a class="navbar-brand custom-title" href="#" title="Designer and Tech Enthusiast">
+  <img src="img/logo.png" width="30" height="30" class="d-inline-block align-top" alt="Logo">
+  Gatya
+</a>
+  <ul class="nav nav-pills nav-fill">
+    <li class="nav-item">
+      <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="{{site.baseurl}}/index.html">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link {% if page.url == '/project.html' %}active{% endif %}" href="{{site.baseurl}}/project.html">Projects</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link {% if page.url == '/video.html' %}active{% endif %}" href="{{site.baseurl}}/video.html">Videos</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link {% if page.url == '/about.html' %}active{% endif %}" href="{{site.baseurl}}/about.html">About</a>
+    </li>
+  </ul>
+</nav>
