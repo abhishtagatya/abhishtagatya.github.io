@@ -8,6 +8,8 @@
   cursor: pointer;
 }
 
-@media screen and (max-width : 580px) {
-
+.custom-breadcrumb {
+  margin-top: -1px;
+  background-color: #000 !important;
+  color: #FFF !important;
 }

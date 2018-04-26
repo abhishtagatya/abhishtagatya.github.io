@@ -1,0 +1,42 @@
+[
+  {
+    "title" : "Linux in 60 Seconds",
+    "url" : "https://www.youtube.com/embed/dUL6rBWgxWI"
+  },
+  {
+    "title" : "Bebras Computational Thinking Competition 2017",
+    "url" : "https://www.youtube.com/embed/7T6SP_aofAM"
+  },
+  {
+    "title" : "Termux | Android's Terminal Emulator",
+    "url" : "https://www.youtube.com/embed/KEsYN8dsT4w"
+  },
+  {
+    "title" : "Stencyl Game Studio | Create Games Without Coding",
+    "url" : "https://www.youtube.com/embed/z8IKYv2CdaE"
+  },
+  {
+    "title" : "Audio Synthesizer with Machine Learning | Google Neural Synthesizer",
+    "url" : "https://www.youtube.com/embed/-g2znJRLsJo"
+  },
+  {
+    "title" : "Lynx Browser | Terminal Web Browser",
+    "url" : "https://www.youtube.com/embed/qkFFuyrw9xU"
+  },
+  {
+    "title" : "Machine Learning in 60 Seconds",
+    "url" : "https://www.youtube.com/embed/qzcnWgx6ZDA"
+  },
+  {
+    "title" : "DevLog | dotPython Chatbot",
+    "url" : "https://www.youtube.com/embed/GcUjLvOeG48"
+  },
+  {
+    "title" : "Azure Sphere OS | Microsoft's Linux Based OS",
+    "url" : "https://www.youtube.com/embed/za5_DzDfa1M"
+  },
+  {
+    "title" : "Creating a Chrome Extension | Quickie",
+    "url" : "https://www.youtube.com/embed/PbfTO-tyPKo"
+  }
+]
