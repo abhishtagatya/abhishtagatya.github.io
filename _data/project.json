@@ -14,6 +14,13 @@
     "commit" : "March 31 2018"
   },
   {
+    "name" : "🚀 Solar Scroller",
+    "url" : "https://solar-scroller.herokuapp.com",
+    "image" : "img/project/solar-preview.jpeg",
+    "description" : "Scroll through the Solar system (quite accurate)",
+    "commit" : "April 24 2018"
+  },
+  {
     "name" : "📚 typeDef File Wiki",
     "url" : "https://github.com/abhishtagatya/typeDef",
     "image" : "img/project/typedef-preview.jpeg",
