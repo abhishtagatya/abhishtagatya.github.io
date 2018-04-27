@@ -2,3 +2,91 @@
 title: About | Gatya Developer
 layout: default
 ---
+
+<div class="container custom-container">
+  <!-- introduction -->
+  <div class="card mb-3">
+    <div class="card-body">
+      <h5 class="card-title custom-card-title" id="introduction">About Me</h5>
+      <p class="card-text">I am Abhishta Gatya, I live in Jakarta, Indonesia. I aspire to be an influencer in the world of technology. I design great ideas in order to make the world a better place for all of us.</p><br>
+      <p class="card-text">I've always been fascinated about Computer science and how the world changes exponentially along with it. In order to keep up, I have to work <a title="Don't work hader, work smarter to do more">smarter</a> to achieve my goals.</p>
+    </div>
+  </div>
+
+  <!-- education -->
+  <div class="card mb-3">
+    <div class="card-body">
+      <h5 class="card-title custom-card-title" id="education">Education</h5>
+      <h6 class="card-title">Formal</h5>
+      <div class="container scroll-container">
+
+      <table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">School / College</th>
+      <th scope="col">Starting Year</th>
+      <th scope="col">Graduating Year</th>
+      <th scope="col">Location</th>
+    </tr>
+  </thead>
+    <tbody>
+      {% for school in site.data.formal_edu %}
+      <tr>
+        <th scope="row">{{school.name}}</th>
+        <td>{{school.start}}</td>
+        <td>{{school.graduate}}</td>
+        <td>{{school.location}}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+    </div>
+
+    <h6 class="card-title">Non Formal</h5>
+      <div class="container scroll-container">
+
+      <table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Institution / Organization</th>
+      <th scope="col">Starting Year</th>
+      <th scope="col">Achievement</th>
+      <th scope="col">Location</th>
+    </tr>
+  </thead>
+    <tbody>
+      {% for class in site.data.nonformal_edu %}
+      <tr>
+        <th scope="row">{{class.name}}</th>
+        <td>{{class.start}}</td>
+        <td>{{class.achievement}}</td>
+        <td>{{class.location}}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+    </div>
+    </div>
+  </div>
+
+  <!-- experience -->
+  <div class="card mb-3">
+    <div class="card-body">
+      <h5 class="card-title custom-card-title" id="experience">Experience</h5>
+    </div>
+  </div>
+
+  <!-- skills -->
+  <div class="card mb-3">
+    <div class="card-body">
+      <h5 class="card-title custom-card-title" id="skills">Skill Set</h5>
+    </div>
+  </div>
+
+  <!-- contact me -->
+  <div class="card mb-3">
+    <div class="card-body">
+      <h5 class="card-title custom-card-title" id="contact">Contact Me</h5>
+    </div>
+  </div>
+</div>

@@ -32,13 +32,13 @@
     "url" : "https://github.com/abhishtagatya/ipsum-chrome-ext",
     "image" : "img/project/ipsum-preview.jpeg",
     "description" : "Dummy Text Generator Chrome Extension (WIP)",
-    "commit" : "Apr 21 2018"
+    "commit" : "April 21 2018"
   },
   {
     "name" : "📨 PyMail",
     "url" : "https://github.com/abhishtagatya/pyMail",
     "image" : "img/project/pymail-preview.jpeg",
     "description" : "Mail Client using Python's SMTPLib and Flask (Just for Experimental)",
-    "commit" : "Apr 23 2018"
+    "commit" : "April 23 2018"
   }
 ]

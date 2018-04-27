@@ -14,9 +14,10 @@ layout: default
           self.name = "Abhishta Gatya Adyatma"
           self.age = 17
           self.residence = "Jakarta, Indonesia"
-          self.education = <a a class="code-link" href="#">education()</a><br>
-          self.experience = <a class="code-link" href="{{site.baseurl}}/project.html">project()</a>
-          self.skill = [
+          self.education = <a a class="code-link" href="{{site.baseurl}}/about.html#education">education(show='table')</a>
+          self.experience = <a class="code-link" href="{{site.baseurl}}/about.html#experience">experience(show='table')</a><br>
+          self.project = <a class="code-link" href="{{site.baseurl}}/project.html">project(show='list')</a>
+          <a class="code-link" href="{{site.baseurl}}/about.html#skills">self.skill</a> = [
           "Python", "C/C++" , "PHP",
           "Shell", "UNIX", "JavaScript",
           ]<br>
@@ -26,7 +27,7 @@ layout: default
           ]<br>
           self.email = "abhishtagatya@yahoo.com"
           self.hired = False
-          # Get to know me more at <a a class="code-link" href="{{site.baseurl}}/about.html">About</a>
+          # Get to know me more at <a a class="code-link" href="{{site.baseurl}}/about.html#introduction">About</a>
           # Using <a href="https://github.com/google/code-prettify">Google Code Prettifier</a>
       </code>
     </pre>

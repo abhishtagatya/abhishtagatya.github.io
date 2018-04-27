@@ -13,3 +13,8 @@
   color: #FFF !important;
   background-color: #000 !important;
 }
+
+.scroll-container {
+  overflow: auto;
+  margin-top: 10px;
+}
