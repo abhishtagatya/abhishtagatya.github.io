@@ -10,6 +10,9 @@ layout: default
     <div class="card-body">
       <h5 class="card-title custom-card-title">{{ project.name }}</h5>
       <p class="card-text">{{ project.description }}</p>
+      {% for tech in project.technology %}
+      <span class="badge badge-dark">{{ tech }}</span>
+      {% endfor %}
       <p class="card-text"><small class="text-muted">Last updated {{ project.commit }}</small></p>
     </div>
   </div>

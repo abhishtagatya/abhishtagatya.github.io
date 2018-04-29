@@ -30,9 +30,9 @@ layout: default
     </tr>
   </thead>
     <tbody>
-      {% for school in site.data.formal_edu %}
+      {% for school in site.data.education.formal_edu %}
       <tr>
-        <th scope="row">{{school.name}}</th>
+        <th scope="row"><a href="{{school.url}}">{{school.name}}</a></th>
         <td>{{school.start}}</td>
         <td>{{school.graduate}}</td>
         <td>{{school.location}}</td>
@@ -49,17 +49,17 @@ layout: default
   <thead>
     <tr>
       <th scope="col">Institution / Organization</th>
-      <th scope="col">Starting Year</th>
       <th scope="col">Achievement</th>
+      <th scope="col">Timeline</th>
       <th scope="col">Location</th>
     </tr>
   </thead>
     <tbody>
-      {% for class in site.data.nonformal_edu %}
+      {% for class in site.data.education.nonformal_edu %}
       <tr>
         <th scope="row">{{class.name}}</th>
-        <td>{{class.start}}</td>
         <td>{{class.achievement}}</td>
+        <td>{{class.timeline}}</td>
         <td>{{class.location}}</td>
       </tr>
       {% endfor %}
@@ -73,13 +73,62 @@ layout: default
   <div class="card mb-3">
     <div class="card-body">
       <h5 class="card-title custom-card-title" id="experience">Experience</h5>
+      <h6 class="card-title">Professional Experience</h5>
+      <div class="container scroll-container">
+
+      <table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Company / Organization</th>
+      <th scope="col">Title / Position</th>
+      <th scope="col">Timeline</th>
+      <th scope="col">Location</th>
+    </tr>
+  </thead>
+    <tbody>
+      {% for work in site.data.experience.professional %}
+      <tr>
+        <th scope="row"><a href="{{work.url}}">{{work.name}}</a></th>
+        <td>{{work.position}}</td>
+        <td>{{work.timeline}}</td>
+        <td>{{work.location}}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+    </div>
+
+    <h6 class="card-title">Voluntary Experience</h5>
+      <div class="container scroll-container">
+
+      <table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Company / Organization</th>
+      <th scope="col">Title / Position</th>
+      <th scope="col">Timeline</th>
+      <th scope="col">Location</th>
+    </tr>
+  </thead>
+    <tbody>
+      {% for vol in site.data.experience.voluntary %}
+      <tr>
+        <th scope="row"><a href="{{vol.url}}" title="{{vol.description}}">{{vol.name}}</a></th>
+        <td>{{vol.position}}</td>
+        <td>{{vol.timeline}}</td>
+        <td>{{vol.location}}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+    </div>
     </div>
   </div>
 
-  <!-- skills -->
+  <!-- expertise -->
   <div class="card mb-3">
     <div class="card-body">
-      <h5 class="card-title custom-card-title" id="skills">Skill Set</h5>
+      <h5 class="card-title custom-card-title" id="expertise">Expertise</h5>
     </div>
   </div>
 

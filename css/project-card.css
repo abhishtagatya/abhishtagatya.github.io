@@ -8,6 +8,10 @@
   cursor: pointer;
 }
 
+.badge {
+  background-color: #000 !important; 
+}
+
 .custom-breadcrumb {
   margin-top: -1px;
   color: #FFF !important;

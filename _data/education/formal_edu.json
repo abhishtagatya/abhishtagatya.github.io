@@ -1,18 +1,21 @@
 [
   {
-    "name" : "<a href='http://lazuardi-gis.net/cinere/'>Lazuardi GIS Elementary</a>",
+    "name" : "Lazuardi GIS Elementary",
+    "url" : "http://lazuardi-gis.net/cinere/",
     "start" : "2006",
     "graduate" : "2012",
     "location" : "Depok, West Java</a>"
   },
   {
-    "name" : "<a href='http://www.lazuardijakarta.sch.id/'>Lazuardi Junior High School</a>",
+    "name" : "Lazuardi Junior High School",
+    "url" : "http://www.lazuardijakarta.sch.id/",
     "start" : "2012",
     "graduate" : "2015",
     "location" : "Jakarta"
   },
   {
-    "name" : "<a href='http://sman32-jkt.sch.id/'>SMAN 32 High School</a>",
+    "name" : "SMAN 32 High School",
+    "url" : "http://sman32-jkt.sch.id/",
     "start" : "2015",
     "graduate" : "2018",
     "location" : "Jakarta"
