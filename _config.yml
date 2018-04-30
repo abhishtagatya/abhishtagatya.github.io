@@ -11,7 +11,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my website, created with Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  abhishtagatya
-permalink: /404.html
 
 port: 4000
 
