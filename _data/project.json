@@ -67,5 +67,18 @@
     ],
     "description": "Mail Client using Python's SMTPLib and Flask (Just for Experimental)",
     "commit": "April 23 2018"
+  },
+  {
+    "name": "📨 SpotLit Web App",
+    "url": "https://github.com/abhishtagatya/spotlit-app",
+    "image": "img/project/spotlit-preview.jpeg",
+    "technology": [
+      "HTML CSS",
+      "JavaScript",
+      "Python",
+      "Spotify API"
+    ],
+    "description": "Music Suggester App that discovers new songs and playlist with a simple recommendation algorythm",
+    "commit": "May 13 2018"
   }
 ]
