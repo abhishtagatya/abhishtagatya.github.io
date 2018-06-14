@@ -1,0 +1,21 @@
+---
+title: Blog | Gatya Developer
+layout: default
+---
+
+<div class="container custom-container">
+  {% for blog in site.data.blog reversed %}
+  <a href="{{ blog.url }}" class="blog-post" title="Read on {{blog.media}}">
+  <div class="card mb-3">
+    <div class="card-body">
+        <h5 class="card-title custom-card-title">{{ blog.name }} | {{ blog.media }}</h5>
+      <p class="card-text">{{ blog.description }}</p>
+      {% for tag in blog.tags %}
+      <span class="badge badge-dark">{{ tag }}</span>
+      {% endfor %}
+      <p class="card-text"><small class="text-muted">Last updated {{ blog.commit }}</small></p>
+    </div>
+  </div>
+</a>
+  {% endfor %}
+</div>

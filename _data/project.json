@@ -19,7 +19,7 @@
       "LINEBot SDK",
       "Heroku"
     ],
-    "description": "Python Chat Course in LINE Messenger by <a href=''>dotLearn</a>",
+    "description": "Python Chat Course in LINE Messenger by <a href=''>dotLearn</a>.",
     "commit": "March 31 2018"
   },
   {
@@ -31,7 +31,7 @@
       "JavaScript",
       "PHP"
     ],
-    "description": "Scroll through the Solar system (quite accurate)",
+    "description": "Scroll through the Solar system (quite accurate).",
     "commit": "April 24 2018"
   },
   {
@@ -42,7 +42,7 @@
       "BASH",
       "JQ"
     ],
-    "description": "A terminal wiki for file types and extensions",
+    "description": "A terminal wiki for file types and extensions.",
     "commit": "April 6 2018"
   },
   {
@@ -53,7 +53,7 @@
       "HTML CSS",
       "JavaScript"
     ],
-    "description": "Dummy Text Generator Chrome Extension (WIP)",
+    "description": "Dummy Text Generator Chrome Extension (WIP).",
     "commit": "April 21 2018"
   },
   {
@@ -65,7 +65,7 @@
       "JavaScript",
       "Python"
     ],
-    "description": "Mail Client using Python's SMTPLib and Flask (Just for Experimental)",
+    "description": "Mail Client using Python's SMTPLib and Flask (Just for Experimental).",
     "commit": "April 23 2018"
   },
   {
@@ -78,7 +78,18 @@
       "Python",
       "Spotify API"
     ],
-    "description": "Music Suggester App that discovers new songs and playlist with a simple recommendation algorythm",
+    "description": "Music Suggester App that discovers new songs and playlist with a simple recommendation algorythm.",
     "commit": "May 13 2018"
+  },
+  {
+    "name": "🍅 Zomathon",
+    "url": "https://pypi.org/project/zomathon/",
+    "image": "img/project/zomathon-preview.jpeg",
+    "technology": [
+      "Python",
+      "Zomato API"
+    ],
+    "description": "Python's Zomato API Wrapper / Module.",
+    "commit": "Jun 12 2018"
   }
 ]

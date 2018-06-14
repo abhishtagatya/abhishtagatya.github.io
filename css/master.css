@@ -1,11 +1,10 @@
-* {
-  transition: all 0.3s ease-in;
-}
-
-
 .custom-title {
   font-family: Permanent Marker;
   font-size: 50px;
+}
+
+.blog-post:hover {
+  text-decoration: none;
 }
 
 .custom-jumbo-404 {

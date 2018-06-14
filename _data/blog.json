@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Open Source the world of Tommorow",
+    "media" : "Medium",
+    "url": "https://medium.com/@gatya/open-source-the-world-of-tomorrow-350ee36ea968",
+    "image": "https://cdn-images-1.medium.com/max/2000/1*3PbMym0zSLTV9FKq_k6Xfw.jpeg",
+    "tags": [
+      "Open Source",
+      "OSS"
+    ],
+    "description": "Open Source is many things, it could be Technology, it could be Education or even Non Profit Organizations and Governments around the globe. But in this short-read article, we will discuss more about the idea of it and as example in the world of Technology because it is what made me love the idea.",
+    "commit": "June 30 2017"
+  },
+  {
+    "name": "How to choose a Linux Distro",
+    "media" : "Medium",
+    "url": "https://medium.com/@gatya/how-to-choose-a-linux-distro-fit-your-needs-31565a2ed832",
+    "image": "https://cdn-images-1.medium.com/max/800/1*EWxoHdxF_R1-QiVqZIg6RA.jpeg",
+    "tags": [
+      "Linux",
+      "Open Source",
+      "Linux Distro"
+    ],
+    "description": "For those of you who uses Linux as their daily driver, you earned yourself a cookie. But for those who wants to start using Linux, I present to you this short guide to diving right in the world of Linux and all its glory, so lets get started.",
+    "commit": "August 6 2017"
+  },
+  {
+    "name": "Creating your first LINE Bot",
+    "media" : "Medium",
+    "url": "https://medium.com/@gatya/creating-your-first-line-bot-3d9d7e88047",
+    "image": "https://cdn-images-1.medium.com/max/800/1*onZqW-5mFoHkpHVPSe5FDQ.png",
+    "tags": [
+      "LINE",
+      "LINEBot SDK",
+      "Chatbot",
+      "Artificial Intelligence",
+      "Github"
+    ],
+    "description": "If you live somewhere in Asia, you might’ve heard of or even use LINE Messenger on a daily basis. Now what I want to introduce to you and what makes LINE Messenger different from its competitors are “Official Accounts”. Official Accounts are Accounts that can be created by a company or even individuals to mass-send messages to users who have become friends with their accounts, and also receiving post articles and more.",
+    "commit": "February 18 2018"
+  }
+]
