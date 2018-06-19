@@ -13,6 +13,16 @@ layout: default
           self.name = "Abhishta Gatya Adyatma"
           self.age = 17
           self.residence = "Jakarta, Indonesia"
+          <a class="code-link" href="{{site.baseurl}}/about.html#expertise">self.skill</a> = [
+            "Python", "C/C++" , "PHP",
+            "Shell", "UNIX", "JavaScript",
+          ]
+          self.social = [
+            <a href="https://github.com/abhishtagatya">"Github",</a> <a href="http://instagram.com/abhishtagatya">"Instagram",</a> <a href="https://devrant.com/users/dotPy">"DevRant",</a>
+            <a href="https://codepen.io/YouCode/">"CodePen",</a> <a href="https://medium.com/@gatya">"Medium",</a> <a href="https://www.youtube.com/channel/UC5rirO_FeyaJ1E261l_qTww">"YouTube",</a>
+          ]
+          self.email = "abhishtagatya@yahoo.com"
+          self.hired = False
 
         def showExperience(self):
         """ <a href="{{site.baseurl}}/about.html#education" title="See Full Experience">See My Working and Volutanry Experiences at about.html</a>"""
@@ -38,18 +48,8 @@ layout: default
           # Selecting Project with Status 'OK' to Share
           return [project for project in projects if project['status'] is 200]
 
-          <a class="code-link" href="{{site.baseurl}}/about.html#expertise">self.skill</a> = [
-          "Python", "C/C++" , "PHP",
-          "Shell", "UNIX", "JavaScript",
-          ]<br>
-          self.social = [
-          <a href="https://github.com/abhishtagatya">Github,</a> <a href="http://instagram.com/abhishtagatya">Instagram,</a> <a href="https://devrant.com/users/dotPy">DevRant,</a>
-          <a href="https://codepen.io/YouCode/">CodePen,</a> <a href="https://medium.com/@gatya">Medium,</a> <a href="https://www.youtube.com/channel/UC5rirO_FeyaJ1E261l_qTww">YouTube,</a>
-          ]<br>
-          self.email = "abhishtagatya@yahoo.com"
-          self.hired = False
-          # Get to know me more at <a a class="code-link" href="{{site.baseurl}}/about.html#introduction">About</a>
-          # Using <a href="https://github.com/google/code-prettify">Google Code Prettifier</a>
+        # Get to know me more at <a a class="code-link" href="{{site.baseurl}}/about.html#introduction">About</a>
+        # Using <a href="https://github.com/google/code-prettify">Google Code Prettifier</a>
       </code>
     </pre>
   </div>

@@ -2,7 +2,7 @@
   {
     "name": "🤖 PyLINE Bot",
     "url": "https://github.com/abhishtagatya/pyline-bot",
-    "image": "img/project/pyline-preview.jpeg",
+    "image": "static/img/project/pyline-preview.jpeg",
     "technology": [
       "Python",
       "LINEBot SDK"
@@ -13,7 +13,7 @@
   {
     "name": "🐍 dotPython LINE Chat Course",
     "url": "https://github.com/abhishtagatya/dotPythonBOT",
-    "image": "img/project/dotpython-preview.jpeg",
+    "image": "static/img/project/dotpython-preview.jpeg",
     "technology": [
       "Python",
       "LINEBot SDK",
@@ -25,7 +25,7 @@
   {
     "name": "🚀 Solar Scroller",
     "url": "https://solar-scroller.herokuapp.com",
-    "image": "img/project/solar-preview.jpeg",
+    "image": "static/img/project/solar-preview.jpeg",
     "technology": [
       "HTML CSS",
       "JavaScript",
@@ -37,7 +37,7 @@
   {
     "name": "📚 typeDef File Wiki",
     "url": "https://github.com/abhishtagatya/typeDef",
-    "image": "img/project/typedef-preview.jpeg",
+    "image": "static/img/project/typedef-preview.jpeg",
     "technology": [
       "BASH",
       "JQ"
@@ -48,7 +48,7 @@
   {
     "name": "📝 Ipsum Chrome Extension",
     "url": "https://github.com/abhishtagatya/ipsum-chrome-ext",
-    "image": "img/project/ipsum-preview.jpeg",
+    "image": "static/img/project/ipsum-preview.jpeg",
     "technology": [
       "HTML CSS",
       "JavaScript"
@@ -59,7 +59,7 @@
   {
     "name": "📨 PyMail",
     "url": "https://github.com/abhishtagatya/pyMail",
-    "image": "img/project/pymail-preview.jpeg",
+    "image": "static/img/project/pymail-preview.jpeg",
     "technology": [
       "HTML CSS",
       "JavaScript",
@@ -71,7 +71,7 @@
   {
     "name": "💿 SpotLit Web App",
     "url": "https://github.com/abhishtagatya/spotlit-frontend",
-    "image": "img/project/spotlit-preview.jpeg",
+    "image": "static/img/project/spotlit-preview.jpeg",
     "technology": [
       "HTML CSS",
       "JavaScript",
@@ -84,7 +84,7 @@
   {
     "name": "🍅 Zomathon",
     "url": "https://pypi.org/project/zomathon/",
-    "image": "img/project/zomathon-preview.jpeg",
+    "image": "static/img/project/zomathon-preview.jpeg",
     "technology": [
       "Python",
       "Zomato API"
@@ -95,7 +95,7 @@
   {
     "name": "☁️ piWeatherman",
     "url": "https://github.com/abhishtagatya/piWeatherman",
-    "image": "img/project/piweatherman-preview.jpeg",
+    "image": "static/img/project/piweatherman-preview.jpeg",
     "technology": [
       "Python",
       "OpenWeatherMap API",

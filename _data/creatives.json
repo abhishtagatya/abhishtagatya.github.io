@@ -28,7 +28,7 @@
     "name": "Coding Is?",
     "media" : "YouTube",
     "url": "https://www.youtube.com/watch?v=qELeb-29lKU&t=54s",
-    "image" : "img/video_thumbnail/thumbnail_ci.png",
+    "image" : "static/img/video_thumbnail/thumbnail_ci.png",
     "tags": [
       "Coding",
       "Inspirational",
@@ -42,7 +42,7 @@
     "name": "Devlog Series",
     "media" : "YouTube",
     "url": "https://www.youtube.com/playlist?list=PLqndIqsNr6_bT_Zp8zXvbFKKxkXQdHkBI",
-    "image": "img/video_thumbnail/thumbnail_ds1.jpeg",
+    "image": "static/img/video_thumbnail/thumbnail_ds1.jpeg",
     "tags": [
       "Student",
       "Developer Life",
