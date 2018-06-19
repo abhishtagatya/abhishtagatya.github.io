@@ -4,7 +4,6 @@ layout: default
 ---
 
 <div class="container-fluid custom-container">
-  <img src="img/home/sidejumbo.png" alt="" id="img-jumbo">
   <h1 class="home-header" id="home-title">Hello Universe |</h1>
   <h3 class="home-header" id="home-name">I'm Abhishta Gatya</h3>
   <div>
@@ -14,9 +13,31 @@ layout: default
           self.name = "Abhishta Gatya Adyatma"
           self.age = 17
           self.residence = "Jakarta, Indonesia"
-          self.education = <a a class="code-link" href="{{site.baseurl}}/about.html#education">education(show='table')</a>
-          self.experience = <a class="code-link" href="{{site.baseurl}}/about.html#experience">experience(show='table')</a><br>
-          self.project = <a class="code-link" href="{{site.baseurl}}/project.html">project(show='list')</a>
+
+        def showExperience(self):
+        """ <a href="{{site.baseurl}}/about.html#education" title="See Full Experience">See My Working and Volutanry Experiences at about.html</a>"""
+        with open('history/experience.json', 'r') as my_experience:
+          experience = json.load(my_experience)
+
+        # Tablify turns Dict into Tables with Rows and Columns
+        return Tablify(experience)
+
+        def <a href="{{site.baseurl}}/about.html#education" title="See Education History">showEducation(self)</a>:
+        """ <a href="{{site.baseurl}}/about.html#education" title="See Education History">See My Education History at about.html</a>"""
+          with open('history/education.json', 'r') as education_background:
+            education = json.load(education_background)
+
+          # Tablify turns Dict into Tables with Rows and Columns
+          return Tablify(education)
+
+        def <a href="{{site.baseurl}}/project.html" title="See Projects">showProject(self)</a>:
+        """ <a href="{{site.baseurl}}/project.html" title="See Projects">See Projects at project.html</a>"""
+          with open('ideas/executed.json', 'r') as completed_project:
+            projects = json.load(completed_project)
+
+          # Selecting Project with Status 'OK' to Share
+          return [project for project in projects if project['status'] is 200]
+
           <a class="code-link" href="{{site.baseurl}}/about.html#expertise">self.skill</a> = [
           "Python", "C/C++" , "PHP",
           "Shell", "UNIX", "JavaScript",

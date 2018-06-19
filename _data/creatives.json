@@ -25,18 +25,32 @@
     "commit": "August 6 2017"
   },
   {
-    "name": "Creating your first LINE Bot",
-    "media" : "Medium",
-    "url": "https://medium.com/@gatya/creating-your-first-line-bot-3d9d7e88047",
-    "image": "https://cdn-images-1.medium.com/max/800/1*onZqW-5mFoHkpHVPSe5FDQ.png",
+    "name": "Coding Is?",
+    "media" : "YouTube",
+    "url": "https://www.youtube.com/watch?v=qELeb-29lKU&t=54s",
+    "image" : "img/video_thumbnail/thumbnail_ci.png",
     "tags": [
-      "LINE",
-      "LINEBot SDK",
-      "Chatbot",
-      "Artificial Intelligence",
-      "Github"
+      "Coding",
+      "Inspirational",
+      "Motivation",
+      "Collaboration"
     ],
-    "description": "If you live somewhere in Asia, you might’ve heard of or even use LINE Messenger on a daily basis. Now what I want to introduce to you and what makes LINE Messenger different from its competitors are “Official Accounts”. Official Accounts are Accounts that can be created by a company or even individuals to mass-send messages to users who have become friends with their accounts, and also receiving post articles and more.",
-    "commit": "February 18 2018"
+    "description": "Just sharing my thoughts on Coding, its been a great 3 years when I started.",
+    "commit": "March 20 2018"
+  },
+  {
+    "name": "Devlog Series",
+    "media" : "YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLqndIqsNr6_bT_Zp8zXvbFKKxkXQdHkBI",
+    "image": "img/video_thumbnail/thumbnail_ds1.jpeg",
+    "tags": [
+      "Student",
+      "Developer Life",
+      "Adventure",
+      "Vlogging",
+      "Devlog"
+    ],
+    "description": "Catch me and my project on my developer log.",
+    "commit": "June 19 2018"
   }
 ]

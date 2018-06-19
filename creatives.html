@@ -1,0 +1,28 @@
+---
+title: Blog | Gatya Developer
+layout: default
+---
+
+<div class="container-fluid custom-container">
+
+  <div class="side-head container">
+    <h1 class="home-header" id="home-title">Creatives |</h1>
+    <h3 class="home-header" id="home-name">Articles and Logs</h3>
+  </div>
+
+  {% for creatives in site.data.creatives reversed %}
+  <a href="{{ creatives.url }}" class="blog-post" title="Open {{creatives.media}}">
+  <div class="card mb-3 custom-card-width">
+    <a href="{{ creatives.url }}"><img class="card-img-top custom-card-img img-fluid" src="{{ creatives.image }}" alt="Card image cap"></a>
+    <div class="card-body">
+        <h5 class="card-title custom-card-title">{{ creatives.name }} | {{ creatives.media }}</h5>
+      <p class="card-text">{{ creatives.description }}</p>
+      {% for tag in creatives.tags %}
+      <span class="badge badge-dark">{{ tag }}</span>
+      {% endfor %}
+      <p class="card-text"><small class="text-muted">Last updated {{ creatives.commit }}</small></p>
+    </div>
+  </div>
+</a>
+  {% endfor %}
+</div>

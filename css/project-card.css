@@ -1,3 +1,19 @@
+.side-head {
+  position: fixed !important;
+}
+
+.custom-card-width {
+  max-width: 500px;
+  margin: auto;
+}
+
+/* If on Mobile */
+@media screen and (max-width: 1280px) {
+  .side-head {
+    display: none !important
+  }
+}
+
 .custom-card-title {
   font-family: Roboto, Arial;
   font-weight: 900;
@@ -9,7 +25,7 @@
 }
 
 .badge {
-  background-color: #000 !important; 
+  background-color: #000 !important;
 }
 
 .custom-breadcrumb {

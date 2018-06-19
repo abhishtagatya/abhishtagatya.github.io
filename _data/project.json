@@ -91,5 +91,18 @@
     ],
     "description": "Python's Zomato API Wrapper / Module.",
     "commit": "Jun 12 2018"
+  },
+  {
+    "name": "☁️ piWeatherman",
+    "url": "https://github.com/abhishtagatya/piWeatherman",
+    "image": "img/project/piweatherman-preview.jpeg",
+    "technology": [
+      "Python",
+      "OpenWeatherMap API",
+      "Python Tkinter",
+      "Raspberry Pi"
+    ],
+    "description": "Raspberry Pi Weather Station (No sensors required).",
+    "commit": "Jun 19 2018"
   }
 ]

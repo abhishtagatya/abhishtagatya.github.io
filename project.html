@@ -3,18 +3,27 @@ title: Project | Gatya Developer
 layout: default
 ---
 
-<div class="container custom-container">
-  {% for project in site.data.project reversed %}
-  <div class="card mb-3">
-    <a href="{{ project.url }}"><img class="card-img-top custom-card-img" src="{{ project.image }}" alt="Card image cap"></a>
-    <div class="card-body">
-      <h5 class="card-title custom-card-title">{{ project.name }}</h5>
-      <p class="card-text">{{ project.description }}</p>
-      {% for tag in project.technology %}
-      <span class="badge badge-dark">{{ tag }}</span>
-      {% endfor %}
-      <p class="card-text"><small class="text-muted">Last updated {{ project.commit }}</small></p>
+<!-- WIP -->
+
+<div class="container-fluid custom-container" style="height : 100%">
+
+    <div class="side-head container">
+      <h1 class="home-header" id="home-title">Projects |</h1>
+      <h3 class="home-header" id="home-name">Catch Me on Github</h3>
     </div>
-  </div>
-  {% endfor %}
+
+    {% for project in site.data.project reversed %}
+    <div class="card mb-3 custom-card-width">
+      <a href="{{ project.url }}"><img class="card-img-top custom-card-img" src="{{ project.image }}" alt="Card image cap"></a>
+      <div class="card-body">
+        <h5 class="card-title custom-card-title">{{ project.name }}</h5>
+        <p class="card-text">{{ project.description }}</p>
+        {% for tag in project.technology %}
+        <span class="badge badge-dark">{{ tag }}</span>
+        {% endfor %}
+        <p class="card-text"><small class="text-muted">Last updated {{ project.commit }}</small></p>
+      </div>
+    </div>
+    {% endfor %}
+
 </div>
