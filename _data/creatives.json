@@ -25,6 +25,20 @@
     "commit": "August 6 2017"
   },
   {
+    "name": "Creating your first LINE Bot",
+    "media" : "Medium",
+    "url": "https://medium.com/@gatya/creating-your-first-line-bot-3d9d7e88047",
+    "image": "https://cdn-images-1.medium.com/max/1000/1*onZqW-5mFoHkpHVPSe5FDQ.png",
+    "tags": [
+      "LINE",
+      "LINEBotSDK",
+      "LINE API",
+      "Python Flask"
+    ],
+    "description": "If you live somewhere in Asia, you might’ve heard of or even use LINE Messenger on a daily basis. Now what I want to introduce to you and what makes LINE Messenger different from its competitors are “Official Accounts”. Official Accounts are Accounts that can be created by a company or even individuals to mass-send messages to users who have become friends with their accounts, and also receiving post articles and more.",
+    "commit": "February 8 2018"
+  },
+  {
     "name": "Coding Is?",
     "media" : "YouTube",
     "url": "https://www.youtube.com/watch?v=qELeb-29lKU&t=54s",
