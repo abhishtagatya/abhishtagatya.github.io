@@ -66,5 +66,20 @@
     ],
     "description": "Catch me and my project on my developer log.",
     "commit": "June 19 2018"
+  },
+  {
+    "name": "Raspberry Pi Weather Station",
+    "media" : "Hackster.io",
+    "url": "https://www.hackster.io/papernotesmusic/piweatherman-raspberry-pi-weather-station-4aad39",
+    "image": "https://hackster.imgix.net/uploads/attachments/513635/preview_photo_ZD9GNEGM8v.JPG?auto=compress%2Cformat&w=900&h=675&fit=min",
+    "tags": [
+      "Python",
+      "Tkinter",
+      "Weather API",
+      "Tutorial",
+      "IoT"
+    ],
+    "description": "A step by step guide of creating your very own Weather Station at home. You can choose to use sensors or just use an API to collect data.",
+    "commit": "June 30 2018"
   }
 ]

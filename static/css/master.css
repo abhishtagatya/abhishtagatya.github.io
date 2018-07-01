@@ -3,6 +3,11 @@
   font-size: 50px;
 }
 
+.img-fluid {
+  max-width: 500px;
+  max-height: 500px !important;
+}
+
 .blog-post:hover {
   text-decoration: none;
 }
