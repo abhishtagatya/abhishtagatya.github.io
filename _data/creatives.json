@@ -81,5 +81,18 @@
     ],
     "description": "A step by step guide of creating your very own Weather Station at home. You can choose to use sensors or just use an API to collect data.",
     "commit": "June 30 2018"
+  },
+  {
+    "name": "Python Coding Livestream",
+    "media" : "YouTube",
+    "url": "https://www.youtube.com/watch?v=SeiuqJgvYsI&list=PLqndIqsNr6_boJjBhugBFC1XL-httFo6N&index=1",
+    "image": "static/img/video_thumbnail/thumbnail_cl2.jpeg",
+    "tags": [
+      "Python",
+      "YouTube",
+      "Live Coding"
+    ],
+    "description": "Joined a community of Python Developers Juniors to Masters where they share some explainations and code snippets via Livestream",
+    "commit": "July 4 2018"
   }
 ]

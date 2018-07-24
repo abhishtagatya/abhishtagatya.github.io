@@ -90,7 +90,7 @@
       "Zomato API"
     ],
     "description": "Python's Zomato API Wrapper / Module.",
-    "commit": "Jun 12 2018"
+    "commit": "June 12 2018"
   },
   {
     "name": "☁️ piWeatherman",
@@ -103,6 +103,20 @@
       "Raspberry Pi"
     ],
     "description": "Raspberry Pi Weather Station (No sensors required).",
-    "commit": "Jun 19 2018"
+    "commit": "June 19 2018"
+  },
+  {
+    "name": "📍 Pandu Chatbot",
+    "url": "https://location-linebot.herokuapp.com/",
+    "image": "static/img/project/pandubot-preview.jpeg",
+    "technology": [
+      "Python",
+      "PostgreSQL",
+      "OpenWeatherMap API",
+      "Zomato API",
+      "Google Maps API"
+    ],
+    "description": "Pandu Chatbot is the Smart Environment solution to a Smart City",
+    "commit": "July 23 2018"
   }
 ]
