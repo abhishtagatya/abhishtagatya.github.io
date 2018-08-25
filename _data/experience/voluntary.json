@@ -1,29 +1,5 @@
 [
   {
-    "name" : "CISV Delegation",
-    "description" : "Host Delegation of a World Wide Organization of Building Friendship and Future Leaders",
-    "url" : "https://cisv.org/",
-    "position" : "Host Delegation",
-    "timeline" : "2015",
-    "location" : "Jakarta"
-  },
-  {
-    "name" : "MPK/OSIS 32 (Student Council)",
-    "description" : "Student Council of SMAN 32 High School",
-    "url" : "http://sman32-jkt.sch.id/",
-    "position" : "MPK Komisi 3",
-    "timeline" : "2015—2016",
-    "location" : "Jakarta"
-  },
-  {
-    "name" : "High School KKPNAS",
-    "description" : "Candidate and Representative of a High School Leadership Mentoring Program",
-    "url" : "https://www.kemdikbud.go.id/main/",
-    "position" : "Representing SMAN 32",
-    "timeline" : "2015",
-    "location" : "Jakarta"
-  },
-  {
     "name" : "Xenta OS",
     "description" : "Volunteer to become Xenta OS (Linux Based) Developer",
     "url" : "http://www.xentaos.org/",
@@ -36,6 +12,14 @@
     "description" : "Volunteer to become IotKu (Internet of Things Platform) Developer",
     "url" : "https://dev.iotku.id/",
     "position" : "Junior Developer & Designer",
+    "timeline" : "2018",
+    "location" : "Indonesia"
+  },
+  {
+    "name" : "Asian Games 2018 Volunteer",
+    "description" : "Volunteer to become an Asian Games 2018 Liason Officer",
+    "url" : "https://en.asiangames2018.id/",
+    "position" : "IT & Telecommunication",
     "timeline" : "2018",
     "location" : "Indonesia"
   }

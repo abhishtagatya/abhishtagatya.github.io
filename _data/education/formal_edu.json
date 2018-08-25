@@ -19,5 +19,12 @@
     "start" : "2015",
     "graduate" : "2018",
     "location" : "Jakarta"
+  },
+  {
+    "name" : "Bina Nusantara University",
+    "url" : "https://binus.ac.id",
+    "start" : "2018",
+    "graduate" : "Present",
+    "location" : "Jakarta"
   }
 ]
