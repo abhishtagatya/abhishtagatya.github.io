@@ -118,5 +118,19 @@
     ],
     "description": "Pandu Chatbot is the Smart Environment solution to a Smart City",
     "commit": "July 23 2018"
+  },
+  {
+    "name": "🖼️ Text2Meme",
+    "url": "https://discordapp.com/oauth2/authorize?client_id=691313752037130312&permissions=522304&scope=bot",
+    "image": "static/img/project/text2meme-preview.jpeg",
+    "technology": [
+      "Python",
+      "LinearSVC",
+      "Text Classification",
+      "Text Generation",
+      "Artificial Intelligence"
+    ],
+    "description": "Text2Meme is a Meme Classification Experiment based on Caption Text (Implemented as a Discord Bot)",
+    "commit": "April 25 2020"
   }
 ]

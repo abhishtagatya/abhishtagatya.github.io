@@ -10,21 +10,22 @@ layout: default
     <pre class="prettyprint code-block" style="border: none">
       <code class="language-python">class Me(Person):
         def __init__(self):
+          super().__init__()
           self.name = "Abhishta Gatya Adyatma"
-          self.age = 17
+          self.age = 19
           self.residence = "Jakarta, Indonesia"
-          <a class="code-link" href="{{site.baseurl}}/about.html#expertise">self.skill</a> = [
-            "Python", "C/C++" , "PHP",
-            "Shell", "UNIX", "JavaScript",
+          <a class="code-link" href="{{site.baseurl}}/about.html#expertise">self.interest</a> = [
+            "Python", "Golang" , "Machine Learning",
+            "Data Science", "Node.JS", "Java",
           ]
           self.social = [
             <a href="https://github.com/abhishtagatya">"Github",</a> <a href="http://instagram.com/abhishtagatya">"Instagram",</a> <a href="https://devrant.com/users/dotPy">"DevRant",</a>
-            <a href="https://codepen.io/YouCode/">"CodePen",</a> <a href="https://medium.com/@gatya">"Medium",</a> <a href="https://www.youtube.com/channel/UC5rirO_FeyaJ1E261l_qTww">"YouTube",</a>
+            <a href="https://www.kaggle.com/abhishtagatya">"Kaggle",</a> <a href="https://medium.com/@gatya">"Medium",</a> <a href="https://www.youtube.com/channel/UC5rirO_FeyaJ1E261l_qTww">"YouTube",</a>
           ]
           self.email = "abhishtagatya@yahoo.com"
-          self.hired = False
+          self.hireable = False # Currently Employed
 
-        def <a href="{{site.baseurl}}/about.html#experience" title="See Full Experience">showExperience(self)</a>:
+        def <a href="{{site.baseurl}}/about.html#experience" title="See Full Experience">show_experience(self)</a>:
           """ <a href="{{site.baseurl}}/about.html#experience" title="See Full Experience">See My Working and Volutanry Experiences at about.html</a>"""
           with open('history/experience.json', 'r') as my_experience:
             experience = json.load(my_experience)
@@ -32,7 +33,7 @@ layout: default
           # Tablify turns Dict into Tables with Rows and Columns
           return Tablify(experience)
 
-        def <a href="{{site.baseurl}}/about.html#education" title="See Education History">showEducation(self)</a>:
+        def <a href="{{site.baseurl}}/about.html#education" title="See Education History">show_education(self)</a>:
           """ <a href="{{site.baseurl}}/about.html#education" title="See Education History">See My Education History at about.html</a>"""
           with open('history/education.json', 'r') as education_background:
             education = json.load(education_background)
@@ -40,7 +41,7 @@ layout: default
           # Tablify turns Dict into Tables with Rows and Columns
           return Tablify(education)
 
-        def <a href="{{site.baseurl}}/project.html" title="See Projects">showProject(self)</a>:
+        def <a href="{{site.baseurl}}/project.html" title="See Projects">show_project(self)</a>:
           """ <a href="{{site.baseurl}}/project.html" title="See Projects">See Projects at project.html</a>"""
           with open('ideas/executed.json', 'r') as completed_project:
             projects = json.load(completed_project)

@@ -94,5 +94,19 @@
     ],
     "description": "Joined a community of Python Developers Juniors to Masters where they share some explainations and code snippets via Livestream",
     "commit": "July 4 2018"
+  },
+  {
+    "name": "How An AI Transform Text to Memes",
+    "media" : "YouTube",
+    "url": "https://www.youtube.com/watch?v=ABJYxUeCU8o",
+    "image": "static/img/video_thumbnail/thumbnail_t2m.png",
+    "tags": [
+      "Python",
+      "YouTube",
+      "Artificial Intelligence",
+      "Natural Language Processing"
+    ],
+    "description": "So I made a Meme Classifier based on Caption Text and decided to implement it on Discord. Try it!",
+    "commit": "April 25 2020"
   }
 ]
