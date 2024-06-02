@@ -7,7 +7,7 @@ theme = "hugo-digital-garden-theme"
   name = "Abhishta Adyatma"
   description = "Creative Computing and Games"
   initials = "Abhishta's Wall"
-  googleAnalytics = "UA-119408053-2"
+  googleAnalytics = "G-PTTE1ZZCYN"
 
   [[params.social]]
     name = "Twitter"
