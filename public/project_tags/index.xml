@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project_tags on Abhishta&#39;s Wall</title>
+    <link>http://localhost:1313/project_tags/</link>
+    <description>Recent content in Project_tags on Abhishta&#39;s Wall</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/project_tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://localhost:1313/project_tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project_tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GLFW</title>
+      <link>http://localhost:1313/project_tags/glfw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project_tags/glfw/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenGL</title>
+      <link>http://localhost:1313/project_tags/opengl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project_tags/opengl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pillow</title>
+      <link>http://localhost:1313/project_tags/pillow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project_tags/pillow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/project_tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project_tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenCV</title>
+      <link>http://localhost:1313/project_tags/opencv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project_tags/opencv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PyTorch</title>
+      <link>http://localhost:1313/project_tags/pytorch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project_tags/pytorch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HuggingFace</title>
+      <link>http://localhost:1313/project_tags/huggingface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project_tags/huggingface/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GoogleTTS</title>
+      <link>http://localhost:1313/project_tags/googletts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project_tags/googletts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MoviePy</title>
+      <link>http://localhost:1313/project_tags/moviepy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project_tags/moviepy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TensorFlow</title>
+      <link>http://localhost:1313/project_tags/tensorflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project_tags/tensorflow/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Design on Abhishta&#39;s Wall</title>
+    <link>http://localhost:1313/library_tags/game-design/</link>
+    <description>Recent content in Game Design on Abhishta&#39;s Wall</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/library_tags/game-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Design Theory</title>
+      <link>http://localhost:1313/library/game-design-burgun/</link>
+      <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/library/game-design-burgun/</guid>
+      <description>A New Philosophy for Understanding Games</description>
+    </item>
+  </channel>
+</rss>

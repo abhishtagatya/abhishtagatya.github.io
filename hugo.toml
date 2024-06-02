@@ -1,0 +1,89 @@
+baseURL = "https://abhishtagatya.github.io"
+languageCode = "en-us"
+title = "Abhishta's Wall"
+theme = "hugo-digital-garden-theme"
+
+[params]
+  name = "Abhishta Adyatma"
+  description = "Creative Computing and Games"
+  initials = "Abhishta's Wall"
+  googleAnalytics = "UA-119408053-2"
+
+  [[params.social]]
+    name = "Twitter"
+    link = "https://x.com/abhishtagatya"
+    icon = "fab fa-twitter"
+
+  [[params.social]]
+    name = "Github"
+    link = "https://github.com/abhishtagatya"
+    icon = "fab fa-github"
+
+  [[params.social]]
+    name = "Medium" 
+    link = "https://medium.com/@abhishtagatya"
+    icon = "fab fa-medium-m"
+
+  [[params.social]]
+    name = "Itch" 
+    link = "https://abhishta.itch.io/"
+    icon = "fab fa-itch-io"
+
+  [[params.social]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/abhishta-adyatma/"
+    icon = "fab fa-linkedin-in"
+
+
+[menu]
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+  [[menu.main]]
+    name = "Writings"
+    url = "/writings/"
+    weight = 2
+  [[menu.main]]
+    name = "Games"
+    url = "/games/"
+    weight = 3
+  [[menu.main]]
+    name = "Library"
+    url = "/library/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+
+[taxonomies]
+  garden_tags = 'garden_tags'
+  project_tags = 'project_tags'
+  library_tags = 'library_tags'
+  game_tags = 'game_tags'
+
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.parser]
+    autoHeadingID = true
+    autoHeadingIDType = 'github'
+    wrapStandAloneImageWithinParagraph = true
+    [markup.goldmark.parser.attribute]
+      block = false
+      title = true
+  [markup.goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = true
+  [markup.highlight]
+    # Choose from https://xyproto.github.io/splash/docs/all.html
+    style = 'monokailight'

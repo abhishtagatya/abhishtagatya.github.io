@@ -1,0 +1,20 @@
+{{ .Scratch.Set "game_tags_list" ""}}
+{{ range .Params.game_tags }}
+    {{ $.Scratch.Add "game_tags_list" ( . | printf " js-iso-%s") }}
+{{ end }}
+<div class='col {{ $.Scratch.Get "game_tags_list" }}'>
+    <div class="card top-highlight">
+        {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+        {{ if $img }}
+        {{ $img = $img.Fit "400x400" }}
+        {{ with $img }}
+        <img src="{{ .Permalink }}" alt="{{ $.Title }}" class="card-img-top">
+        {{ end }}
+        {{ end }}
+        <div class="card-body">
+            <h4 class="card-title">{{ .Title }}</h4>
+            <a href="{{ .Params.Link }}" class="stretched-link" target="_blank"></a>
+        </div>
+    </div>
+</div>
+{{ .Scratch.Delete "game_tags_list" }}

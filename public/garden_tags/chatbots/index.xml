@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chatbots on Abhishta&#39;s Wall</title>
+    <link>http://localhost:1313/garden_tags/chatbots/</link>
+    <description>Recent content in Chatbots on Abhishta&#39;s Wall</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/garden_tags/chatbots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upgrading Your Workspace with Automatic FAQs Chatbot</title>
+      <link>http://localhost:1313/writings/upgrade_workspace_nlp/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/upgrade_workspace_nlp/</guid>
+      <description>Using NLP to Enhance Communication in the Virtual Workspace</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyTorch on Abhishta&#39;s Wall</title>
+    <link>http://localhost:1313/project_tags/pytorch/</link>
+    <description>Recent content in PyTorch on Abhishta&#39;s Wall</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/project_tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spoofire</title>
+      <link>http://localhost:1313/projects/spoofire/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/spoofire/</guid>
+      <description>Audio Spoof Classification using Transformers</description>
+    </item>
+    <item>
+      <title>VeinGAN</title>
+      <link>http://localhost:1313/projects/veingan/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/veingan/</guid>
+      <description>Generating Syntethic Vein Images using GAN</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abhishta&#39;s Wall</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Abhishta&#39;s Wall</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Model Viewer</title>
+      <link>http://localhost:1313/projects/model-viewer/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/model-viewer/</guid>
+      <description>Simple Experiment on Viewing glTF Models</description>
+    </item>
+    <item>
+      <title>Paleta</title>
+      <link>http://localhost:1313/projects/paleta/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/paleta/</guid>
+      <description>Palette Extraction and Management Tool for Game Assets</description>
+    </item>
+    <item>
+      <title>Spoofire</title>
+      <link>http://localhost:1313/projects/spoofire/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/spoofire/</guid>
+      <description>Audio Spoof Classification using Transformers</description>
+    </item>
+    <item>
+      <title>VeinGAN</title>
+      <link>http://localhost:1313/projects/veingan/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/veingan/</guid>
+      <description>Generating Syntethic Vein Images using GAN</description>
+    </item>
+    <item>
+      <title>AutoClip</title>
+      <link>http://localhost:1313/projects/autoclip/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/autoclip/</guid>
+      <description>Automatic Video Editing for TikTok/YT Shorts Format</description>
+    </item>
+    <item>
+      <title>PaintGAN</title>
+      <link>http://localhost:1313/projects/paintgan/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/paintgan/</guid>
+      <description>Generative Adversarial Models for Painting Domain</description>
+    </item>
+    <item>
+      <title>Krill to Live</title>
+      <link>http://localhost:1313/games/krill-to-live/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/games/krill-to-live/</guid>
+      <description>Survival of the Small</description>
+    </item>
+    <item>
+      <title>How to Cheat in Rocket League</title>
+      <link>http://localhost:1313/writings/cheat_rocket_league/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/cheat_rocket_league/</guid>
+      <description>A Game Design Exploration on Cheating in a Competitive Online Multiplayer Game</description>
+    </item>
+    <item>
+      <title>Witch&#39;s Cauldron</title>
+      <link>http://localhost:1313/games/witchs-cauldron/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/games/witchs-cauldron/</guid>
+      <description>The Immortal Spell</description>
+    </item>
+    <item>
+      <title>AirBlown</title>
+      <link>http://localhost:1313/games/airblown/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/games/airblown/</guid>
+      <description>Don&amp;rsquo;t Get Blown Out</description>
+    </item>
+    <item>
+      <title>Exploring One-Class Classifier to Detect Image Anomalies</title>
+      <link>http://localhost:1313/writings/one_class_classifier/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/one_class_classifier/</guid>
+      <description>Brief Introduction to One-Class Learning and Example Case</description>
+    </item>
+    <item>
+      <title>Automating Google Forms with the GPT Model</title>
+      <link>http://localhost:1313/writings/automating_addon_ai/</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/automating_addon_ai/</guid>
+      <description>A Google Workspace Add-ons Tutorial</description>
+    </item>
+    <item>
+      <title>Introduction to Computer Graphics</title>
+      <link>http://localhost:1313/library/intro-computer-graphics/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/library/intro-computer-graphics/</guid>
+      <description>Using OpenGL and Java</description>
+    </item>
+    <item>
+      <title>Upgrading Your Workspace with Automatic FAQs Chatbot</title>
+      <link>http://localhost:1313/writings/upgrade_workspace_nlp/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/upgrade_workspace_nlp/</guid>
+      <description>Using NLP to Enhance Communication in the Virtual Workspace</description>
+    </item>
+    <item>
+      <title>Game Design Theory</title>
+      <link>http://localhost:1313/library/game-design-burgun/</link>
+      <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/library/game-design-burgun/</guid>
+      <description>A New Philosophy for Understanding Games</description>
+    </item>
+    <item>
+      <title>Abhishta Adyatma</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Creative Computing and Games</description>
+    </item>
+  </channel>
+</rss>
