@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Abhishta&#39;s Wall</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://abhishtagatya.github.io/projects/</link>
     <description>Recent content in Projects on Abhishta&#39;s Wall</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishtagatya.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Model Viewer</title>
-      <link>http://localhost:1313/projects/model-viewer/</link>
+      <link>https://abhishtagatya.github.io/projects/model-viewer/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/model-viewer/</guid>
+      <guid>https://abhishtagatya.github.io/projects/model-viewer/</guid>
       <description>Simple Experiment on Viewing glTF Models</description>
     </item>
     <item>
       <title>Paleta</title>
-      <link>http://localhost:1313/projects/paleta/</link>
+      <link>https://abhishtagatya.github.io/projects/paleta/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/paleta/</guid>
+      <guid>https://abhishtagatya.github.io/projects/paleta/</guid>
       <description>Palette Extraction and Management Tool for Game Assets</description>
     </item>
     <item>
       <title>Spoofire</title>
-      <link>http://localhost:1313/projects/spoofire/</link>
+      <link>https://abhishtagatya.github.io/projects/spoofire/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/spoofire/</guid>
+      <guid>https://abhishtagatya.github.io/projects/spoofire/</guid>
       <description>Audio Spoof Classification using Transformers</description>
     </item>
     <item>
       <title>VeinGAN</title>
-      <link>http://localhost:1313/projects/veingan/</link>
+      <link>https://abhishtagatya.github.io/projects/veingan/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/veingan/</guid>
+      <guid>https://abhishtagatya.github.io/projects/veingan/</guid>
       <description>Generating Syntethic Vein Images using GAN</description>
     </item>
     <item>
       <title>AutoClip</title>
-      <link>http://localhost:1313/projects/autoclip/</link>
+      <link>https://abhishtagatya.github.io/projects/autoclip/</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/autoclip/</guid>
+      <guid>https://abhishtagatya.github.io/projects/autoclip/</guid>
       <description>Automatic Video Editing for TikTok/YT Shorts Format</description>
     </item>
     <item>
       <title>PaintGAN</title>
-      <link>http://localhost:1313/projects/paintgan/</link>
+      <link>https://abhishtagatya.github.io/projects/paintgan/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/paintgan/</guid>
+      <guid>https://abhishtagatya.github.io/projects/paintgan/</guid>
       <description>Generative Adversarial Models for Painting Domain</description>
     </item>
   </channel>

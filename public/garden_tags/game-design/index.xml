@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Design on Abhishta&#39;s Wall</title>
-    <link>http://localhost:1313/garden_tags/game-design/</link>
+    <link>https://abhishtagatya.github.io/garden_tags/game-design/</link>
     <description>Recent content in Game Design on Abhishta&#39;s Wall</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/garden_tags/game-design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishtagatya.github.io/garden_tags/game-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Cheat in Rocket League</title>
-      <link>http://localhost:1313/writings/cheat_rocket_league/</link>
+      <link>https://abhishtagatya.github.io/writings/cheat_rocket_league/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/cheat_rocket_league/</guid>
+      <guid>https://abhishtagatya.github.io/writings/cheat_rocket_league/</guid>
       <description>A Game Design Exploration on Cheating in a Competitive Online Multiplayer Game</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geometry on Abhishta&#39;s Wall</title>
-    <link>http://localhost:1313/library_tags/geometry/</link>
+    <link>https://abhishtagatya.github.io/library_tags/geometry/</link>
     <description>Recent content in Geometry on Abhishta&#39;s Wall</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/library_tags/geometry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishtagatya.github.io/library_tags/geometry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Computer Graphics</title>
-      <link>http://localhost:1313/library/intro-computer-graphics/</link>
+      <link>https://abhishtagatya.github.io/library/intro-computer-graphics/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/library/intro-computer-graphics/</guid>
+      <guid>https://abhishtagatya.github.io/library/intro-computer-graphics/</guid>
       <description>Using OpenGL and Java</description>
     </item>
   </channel>

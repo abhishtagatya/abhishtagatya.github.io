@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Library_tags on Abhishta&#39;s Wall</title>
-    <link>http://localhost:1313/library_tags/</link>
+    <link>https://abhishtagatya.github.io/library_tags/</link>
     <description>Recent content in Library_tags on Abhishta&#39;s Wall</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/library_tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishtagatya.github.io/library_tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Geometry</title>
-      <link>http://localhost:1313/library_tags/geometry/</link>
+      <link>https://abhishtagatya.github.io/library_tags/geometry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/library_tags/geometry/</guid>
+      <guid>https://abhishtagatya.github.io/library_tags/geometry/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/library_tags/java/</link>
+      <link>https://abhishtagatya.github.io/library_tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/library_tags/java/</guid>
+      <guid>https://abhishtagatya.github.io/library_tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenGL</title>
-      <link>http://localhost:1313/library_tags/opengl/</link>
+      <link>https://abhishtagatya.github.io/library_tags/opengl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/library_tags/opengl/</guid>
+      <guid>https://abhishtagatya.github.io/library_tags/opengl/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Design</title>
-      <link>http://localhost:1313/library_tags/game-design/</link>
+      <link>https://abhishtagatya.github.io/library_tags/game-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/library_tags/game-design/</guid>
+      <guid>https://abhishtagatya.github.io/library_tags/game-design/</guid>
       <description></description>
     </item>
   </channel>

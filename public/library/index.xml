@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Library on Abhishta&#39;s Wall</title>
-    <link>http://localhost:1313/library/</link>
+    <link>https://abhishtagatya.github.io/library/</link>
     <description>Recent content in Library on Abhishta&#39;s Wall</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/library/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishtagatya.github.io/library/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Computer Graphics</title>
-      <link>http://localhost:1313/library/intro-computer-graphics/</link>
+      <link>https://abhishtagatya.github.io/library/intro-computer-graphics/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/library/intro-computer-graphics/</guid>
+      <guid>https://abhishtagatya.github.io/library/intro-computer-graphics/</guid>
       <description>Using OpenGL and Java</description>
     </item>
     <item>
       <title>Game Design Theory</title>
-      <link>http://localhost:1313/library/game-design-burgun/</link>
+      <link>https://abhishtagatya.github.io/library/game-design-burgun/</link>
       <pubDate>Thu, 20 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/library/game-design-burgun/</guid>
+      <guid>https://abhishtagatya.github.io/library/game-design-burgun/</guid>
       <description>A New Philosophy for Understanding Games</description>
     </item>
   </channel>

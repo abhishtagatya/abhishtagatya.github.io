@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Garden_tags on Abhishta&#39;s Wall</title>
-    <link>http://localhost:1313/garden_tags/</link>
+    <link>https://abhishtagatya.github.io/garden_tags/</link>
     <description>Recent content in Garden_tags on Abhishta&#39;s Wall</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/garden_tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishtagatya.github.io/garden_tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Design</title>
-      <link>http://localhost:1313/garden_tags/game-design/</link>
+      <link>https://abhishtagatya.github.io/garden_tags/game-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garden_tags/game-design/</guid>
+      <guid>https://abhishtagatya.github.io/garden_tags/game-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Anomaly Detection</title>
-      <link>http://localhost:1313/garden_tags/anomaly-detection/</link>
+      <link>https://abhishtagatya.github.io/garden_tags/anomaly-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garden_tags/anomaly-detection/</guid>
+      <guid>https://abhishtagatya.github.io/garden_tags/anomaly-detection/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenCV</title>
-      <link>http://localhost:1313/garden_tags/opencv/</link>
+      <link>https://abhishtagatya.github.io/garden_tags/opencv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garden_tags/opencv/</guid>
+      <guid>https://abhishtagatya.github.io/garden_tags/opencv/</guid>
       <description></description>
     </item>
     <item>
       <title>SVM</title>
-      <link>http://localhost:1313/garden_tags/svm/</link>
+      <link>https://abhishtagatya.github.io/garden_tags/svm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garden_tags/svm/</guid>
+      <guid>https://abhishtagatya.github.io/garden_tags/svm/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>http://localhost:1313/garden_tags/automation/</link>
+      <link>https://abhishtagatya.github.io/garden_tags/automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garden_tags/automation/</guid>
+      <guid>https://abhishtagatya.github.io/garden_tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>NLP</title>
-      <link>http://localhost:1313/garden_tags/nlp/</link>
+      <link>https://abhishtagatya.github.io/garden_tags/nlp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garden_tags/nlp/</guid>
+      <guid>https://abhishtagatya.github.io/garden_tags/nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenAI GPT</title>
-      <link>http://localhost:1313/garden_tags/openai-gpt/</link>
+      <link>https://abhishtagatya.github.io/garden_tags/openai-gpt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garden_tags/openai-gpt/</guid>
+      <guid>https://abhishtagatya.github.io/garden_tags/openai-gpt/</guid>
       <description></description>
     </item>
     <item>
       <title>Chatbots</title>
-      <link>http://localhost:1313/garden_tags/chatbots/</link>
+      <link>https://abhishtagatya.github.io/garden_tags/chatbots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garden_tags/chatbots/</guid>
+      <guid>https://abhishtagatya.github.io/garden_tags/chatbots/</guid>
       <description></description>
     </item>
     <item>
       <title>Workspace</title>
-      <link>http://localhost:1313/garden_tags/workspace/</link>
+      <link>https://abhishtagatya.github.io/garden_tags/workspace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/garden_tags/workspace/</guid>
+      <guid>https://abhishtagatya.github.io/garden_tags/workspace/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLP on Abhishta&#39;s Wall</title>
-    <link>http://localhost:1313/garden_tags/nlp/</link>
+    <link>https://abhishtagatya.github.io/garden_tags/nlp/</link>
     <description>Recent content in NLP on Abhishta&#39;s Wall</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/garden_tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishtagatya.github.io/garden_tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automating Google Forms with the GPT Model</title>
-      <link>http://localhost:1313/writings/automating_addon_ai/</link>
+      <link>https://abhishtagatya.github.io/writings/automating_addon_ai/</link>
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/automating_addon_ai/</guid>
+      <guid>https://abhishtagatya.github.io/writings/automating_addon_ai/</guid>
       <description>A Google Workspace Add-ons Tutorial</description>
     </item>
     <item>
       <title>Upgrading Your Workspace with Automatic FAQs Chatbot</title>
-      <link>http://localhost:1313/writings/upgrade_workspace_nlp/</link>
+      <link>https://abhishtagatya.github.io/writings/upgrade_workspace_nlp/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/upgrade_workspace_nlp/</guid>
+      <guid>https://abhishtagatya.github.io/writings/upgrade_workspace_nlp/</guid>
       <description>Using NLP to Enhance Communication in the Virtual Workspace</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GLFW on Abhishta&#39;s Wall</title>
-    <link>http://localhost:1313/project_tags/glfw/</link>
+    <link>https://abhishtagatya.github.io/project_tags/glfw/</link>
     <description>Recent content in GLFW on Abhishta&#39;s Wall</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/project_tags/glfw/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishtagatya.github.io/project_tags/glfw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Model Viewer</title>
-      <link>http://localhost:1313/projects/model-viewer/</link>
+      <link>https://abhishtagatya.github.io/projects/model-viewer/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/model-viewer/</guid>
+      <guid>https://abhishtagatya.github.io/projects/model-viewer/</guid>
       <description>Simple Experiment on Viewing glTF Models</description>
     </item>
   </channel>
