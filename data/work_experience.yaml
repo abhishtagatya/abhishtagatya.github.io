@@ -1,0 +1,15 @@
+jobs:
+  - company: "World"
+    title: "Freelance Engineer"
+    duration: "2021 - Now"
+    description: "Developed a variety of projects across multiple industries."
+  
+  - company: "Advotics"
+    title: "Software Engineer"
+    duration: "2022 - 2023"
+    description: "Worked on Identity Management, Analytics, and Internal Tooling using Spring"
+
+  - company: "Flick"
+    title: "Co-Founder"
+    duration: "2018 - 2022"
+    description: "Responsible for all Technological Development and Relations locally and overseas"

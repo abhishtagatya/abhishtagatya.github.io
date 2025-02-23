@@ -1,0 +1,45 @@
+projects:
+  - title: "Ray Tracing"
+    short: "Experimental Sphere Geometry Ray Tracing in OpenGL"
+    status: "Public"
+    link: https://github.com/abhishtagatya/ray_tracing_scene
+
+  - title: "Particle Simulation"
+    short: "Experimental Playground in OpenGL"
+    status: "Public"
+    link: https://github.com/abhishtagatya/particle_simulation
+
+  - title: "VeinGAN"
+    short: "Medical Image Generation of Finger Veins in PyTorch"
+    status: "Public"
+    link: https://github.com/abhishtagatya/veingan
+
+  - title: "Devoid: Ascend to the Void"
+    short: "Micro Jam Winning Void Exploration Game in Unity"
+    status: "Public"
+    link: https://abhishta.itch.io/devoid-ascend-to-the-void
+
+  - title: "Mirror Scene"
+    short: "Experimental Mirror Illusion using Stencil in OpenGL"
+    status: "Public"
+    link: https://github.com/abhishtagatya/mirror_scene
+
+  - title: "Metro Plin-Plan"
+    short: "COMPFEST IGI Submission of City Planning Simulator in LibGDX"
+    status: "Public"
+    link: https://abhishta.itch.io/metro-plin-plan
+
+  - title: "EGGO"
+    short: "Mobile Cooking Mayhem Game in Unity"
+    status: "Progress"
+    link: https://x.com/x0teric
+
+  - title: "Moo-Vasion"
+    short: "Mobile Endless-Runner UFO Simulator in Unity"
+    status: "Progress"
+    link: https://x.com/x0teric
+
+  - title: "PaintGAN"
+    short: "Generative Style Transfer of Artworks in PyTorch"
+    status: "Public"
+    link: https://github.com/abhishtagatya/paintgan

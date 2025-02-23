@@ -1,0 +1,228 @@
+{{ define "main" }}
+<!-- Three.js 3D Background -->
+<style>
+  body {
+    margin: 0;
+    height: 100%;
+    overflow: auto;
+  }
+
+  .font-pjs {
+    font-family: 'Plus Jakarta Sans', 'Helvetica';
+  }
+
+  .font-pjs-bold {
+    font-family: 'Plus Jakarta Sans', 'Helvetica';
+    font-weight: bold;
+  }
+
+  #threejs-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;  /* Ensure it's behind the content */
+  }
+
+  .content-wrapper {
+    position: relative;
+    z-index: 1;  /* Content appears above the background */
+    max-width: 50%;
+    min-width: 320px;
+    margin: auto;
+    padding-bottom: 50px; /* Prevents last content from touching the bottom */
+  }
+  
+  .hv {
+    padding: 0px 0px;
+    transition: border 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    border: 2px solid transparent; /* Initially transparent */
+    border-radius: 0px; /* Optional: rounded corners */
+  }
+
+  .hv:hover {
+    border: 2px solid #999; /* Green box on hover */
+    cursor: pointer;
+  }
+</style>
+
+<!-- 3D Canvas for Three.js -->
+<div id="threejs-background"></div>
+
+<!-- Your main content -->
+<div class="container content-wrapper">
+  <div class="mt-5">
+    <div class="row">
+      <div class="col-8 d-flex justify-content-start align-items-center">
+        <!-- Social Media Links with Proper Spacing -->
+        <a href="https://x.com/x0teric" target="_blank" class="fab fa-x-twitter text-white me-3" style="font-size: 24px; text-decoration: none;"></a>
+        <a href="https://abhishta.itch.io" target="_blank" class="fab fa-itch-io text-white me-3" style="font-size: 24px; text-decoration: none;"></a>
+        <a href="https://github.com/abhishtagatya" target="_blank" class="fab fa-github text-white me-3" style="font-size: 24px; text-decoration: none;"></a>
+        <a href="https://linkedin.com/in/abhishta-adyatma/" target="_blank" class="fab fa-linkedin text-white me-3" style="font-size: 24px; text-decoration: none;"></a>
+      </div>
+      <div class="col-4 d-flex justify-content-end align-items-center">
+        <!-- Dice Icon -->
+        <a href="#" class="fa-solid fa-dice text-white" style="font-size: 24px; text-decoration: none;" onclick="changeObject()"></a>
+      </div>
+    </div>
+  </div>
+  
+
+  <div class="mt-5">
+    <h5 class="font-pjs-bold text-white">Abhishta Adyatma</h5>
+    <h6 class="font-pjs text-white">Game Developer / Graphics Engineer</h6>
+    <p class="font-pjs text-secondary">Master's Game & Graphics student at FI MUNI. Formerly a SaaS Co-Founder & Engineer. Interest in Low-Level Computer Graphics & Efficient Graphics Algorithm. Dream to Make Games for a Living and Researching HCI.</p>
+  </div>
+
+  <!-- Work Experience Section -->
+  <div class="mt-5">
+    <h5 class="font-pjs-bold text-white">Work Experience</h5>
+    {{ range .Site.Data.work_experience.jobs }}
+    <div class="row hv py-1">
+      <div class="font-pjs col-8 text-white">{{ .title }} at <span class="text-success">{{ .company }}</span></div>
+      <div class="font-pjs col-4 text-secondary text-end">{{ .duration }}</div>
+      <div class="font-pjs col-8 text-secondary">{{ .description }}</div>
+    </div>
+    {{ end }}
+    <a class="icon-link mt-2 text-success font-pjs-bold" style="text-decoration: none;" href="https://www.linkedin.com/in/abhishta-adyatma/">
+      See More
+      <svg class="bi" aria-hidden="true"><use xlink:href="#arrow-right"></use></svg>
+    </a>
+  </div>
+  
+  <!-- Projects Section -->
+  <div class="mt-5">
+    <h5 class="font-pjs-bold text-white">Projects</h5>
+    {{ range .Site.Data.projects.projects }}
+    <a href="{{ .link }}" style="text-decoration: none;" target="_blank">
+      <div class="row hv py-1">
+        <div class="font-pjs col-10 text-white">{{ .title }}. <span class="text-success">{{ .short }}</span>.</div>
+        <div class="font-pjs col-2 text-secondary text-end">{{ .status }}</div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+  <a class="icon-link mt-2 text-success font-pjs-bold" style="text-decoration: none;" href="https://github.com/abhishtagatya" target="_blank">
+    See More
+    <svg class="bi" aria-hidden="true"><use xlink:href="#arrow-right"></use></svg>
+  </a>
+</div>
+
+<!-- Three.js 3D Background Script -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script>
+  // Set up Three.js scene for the background
+  var scene = new THREE.Scene();
+  var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+  var renderer = new THREE.WebGLRenderer();
+  renderer.setSize(window.innerWidth, window.innerHeight);
+  document.getElementById('threejs-background').appendChild(renderer.domElement);
+
+  // Add lighting to the scene
+  var ambientLight = new THREE.AmbientLight(0x404040, 1); // Soft light
+  scene.add(ambientLight);
+  
+  var pointLight = new THREE.PointLight(0xffffff, 1, 100);
+  pointLight.position.set(5, 5, 5);
+  scene.add(pointLight);
+
+  // Global variable to store the current object in the scene
+  let currentObject;
+
+  // Create and add a torus knot geometry in wireframe
+  var geometry = new THREE.TorusKnotGeometry(1, 0.3, 100, 16);
+  var material = new THREE.MeshBasicMaterial({ color: 0x003300, wireframe: true }); // Wireframe material
+  currentObject = new THREE.Mesh(geometry, material);
+  scene.add(currentObject);
+
+  // Position camera
+  camera.position.z = 1;
+
+  // List of objects with geometry and materials as strings
+  const objects = [
+  { name: 'Sphere', geometry: 'SphereGeometry', material: 'MeshBasicMaterial', color: 0x000055 },
+  { name: 'TorusKnot', geometry: 'TorusKnotGeometry', material: 'MeshBasicMaterial', color: 0x005500 },
+  { name: 'Dodecahedron', geometry: 'DodecahedronGeometry', material: 'MeshBasicMaterial', color: 0x550055 },
+  { name: 'Icosahedron', geometry: 'IcosahedronGeometry', material: 'MeshBasicMaterial', color: 0x335500 },
+  { name: 'Octahedron', geometry: 'OctahedronGeometry', material: 'MeshBasicMaterial', color: 0x005533 },
+  { name: 'Tetrahedron', geometry: 'TetrahedronGeometry', material: 'MeshBasicMaterial', color: 0x550033 },
+  { name: 'Ring', geometry: 'RingGeometry', material: 'MeshBasicMaterial', color: 0x330055 },
+  { name: 'Extrude', geometry: 'ExtrudeGeometry', material: 'MeshBasicMaterial', color: 0x550000 },
+  { name: 'Torus', geometry: 'TorusGeometry', material: 'MeshBasicMaterial', color: 0x550033 }
+];
+
+  // Function to change the object
+  function changeObject() {
+    // Remove the current object from the scene if it exists
+    if (currentObject) {
+      scene.remove(currentObject);
+    }
+
+    // Choose a random object from the list
+    const randomIndex = Math.floor(Math.random() * objects.length);
+    const chosenObject = objects[randomIndex];
+
+    // Create the geometry and material for the chosen object
+    let geometry;
+    if (chosenObject.geometry === 'SphereGeometry') {
+      geometry = new THREE.SphereGeometry(1, 32, 32);
+    } else if (chosenObject.geometry === 'TorusKnotGeometry') {
+      geometry = new THREE.TorusKnotGeometry(1, 0.3, 100, 16);
+    } else if (chosenObject.geometry === 'DodecahedronGeometry') {
+      geometry = new THREE.DodecahedronGeometry(1);
+    } else if (chosenObject.geometry === 'IcosahedronGeometry') {
+      geometry = new THREE.IcosahedronGeometry(1);
+    } else if (chosenObject.geometry === 'OctahedronGeometry') {
+      geometry = new THREE.OctahedronGeometry(1);
+    } else if (chosenObject.geometry === 'TetrahedronGeometry') {
+      geometry = new THREE.TetrahedronGeometry(1);
+    } else if (chosenObject.geometry === 'RingGeometry') {
+      geometry = new THREE.RingGeometry(0.5, 1, 32);
+    } else if (chosenObject.geometry === 'ExtrudeGeometry') {
+      // Create a 2D shape and extrude it
+      const shape = new THREE.Shape();
+      shape.moveTo(0, 0);
+      shape.lineTo(1, 0);
+      shape.lineTo(1, 1);
+      shape.lineTo(0, 1);
+      shape.lineTo(0, 0);
+      geometry = new THREE.ExtrudeGeometry(shape, { depth: 1, bevelEnabled: true });
+    } else if (chosenObject.geometry === 'TorusGeometry') {
+      geometry = new THREE.TorusGeometry(1, 0.3, 16, 100);
+    }
+
+    console.log(chosenObject.geometry)
+
+    // Create the material for the chosen object
+    const material = new THREE.MeshBasicMaterial({ color: chosenObject.color, wireframe: true });
+
+    // Create the mesh with the chosen geometry and material
+    currentObject = new THREE.Mesh(geometry, material);
+    
+    // Add the new object to the scene
+    scene.add(currentObject);
+  }
+
+
+  // Animate the objects
+  function animate() {
+    requestAnimationFrame(animate);
+
+    // Rotate the torus knot
+    currentObject.rotation.x += 0.001;
+    currentObject.rotation.y += 0.001;
+
+    renderer.render(scene, camera);
+  }
+
+  animate();
+
+  // Resize event listener
+  window.addEventListener('resize', function() {
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    camera.aspect = window.innerWidth / window.innerHeight;
+    camera.updateProjectionMatrix();
+  });
+</script>
+{{ end }}
