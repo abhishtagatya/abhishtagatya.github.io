@@ -19,30 +19,10 @@ projects:
     status: "Public"
     link: https://github.com/abhishtagatya/veingan
 
-  - title: "Devoid: Ascend to the Void"
-    short: "Micro Jam Winning Void Exploration Game in Unity"
-    status: "Public"
-    link: https://abhishta.itch.io/devoid-ascend-to-the-void
-
   - title: "Mirror Scene"
     short: "Experimental Mirror Illusion using Stencil in OpenGL"
     status: "Public"
     link: https://github.com/abhishtagatya/mirror_scene
-
-  - title: "Metro Plin-Plan"
-    short: "COMPFEST IGI Submission of City Planning Simulator in LibGDX"
-    status: "Public"
-    link: https://abhishta.itch.io/metro-plin-plan
-
-  - title: "EGGO"
-    short: "Mobile Cooking Mayhem Game in Unity"
-    status: "Progress"
-    link: https://x.com/x0teric
-
-  - title: "Moo-Vasion"
-    short: "Mobile Endless-Runner UFO Simulator in Unity"
-    status: "Progress"
-    link: https://x.com/x0teric
 
   - title: "PaintGAN"
     short: "Generative Style Transfer of Artworks in PyTorch"
