@@ -94,7 +94,7 @@
   <!-- Game Section -->
   <div class="mt-5">
     <h5 class="font-pjs-bold text-white">Games</h5>
-    {{ range .Site.Data.game.titles }}
+    {{ range .Site.Data.games.titles }}
     <a href="{{ .link }}" style="text-decoration: none;" target="_blank">
       <div class="row hv py-1">
         <div class="font-pjs col-10 text-white">{{ .title }}. <span class="text-success">{{ .company }}</span>.</div>
@@ -107,7 +107,6 @@
     See More
     <svg class="bi" aria-hidden="true"><use xlink:href="#arrow-right"></use></svg>
   </a>
-</div>
   
   <!-- Projects Section -->
   <div class="mt-5">

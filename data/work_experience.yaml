@@ -1,5 +1,10 @@
 jobs:
-  - company: "World"
+  - company: "Separuh Interactive"
+    title: "Game Programmer Intern"
+    duration: "2025 - Now"
+    description: "Developing AGNI : Village of Calamity for PC & Console using Unreal Engine 5."
+
+  - company: "Personal"
     title: "Freelance Engineer"
     duration: "2021 - Now"
     description: "Developed a variety of projects across multiple industries."
