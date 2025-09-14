@@ -1,4 +1,1 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="20" cy="20" r="18" fill="currentColor" stroke="currentColor" stroke-width="2"/>
-  <text x="20" y="26" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-size="16" font-weight="bold">H</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="100px" height="100px"><path fill="#e53935" d="M5 36H39V43H5z"/><path fill="#e53935" d="M-5 26H22V33H-5z" transform="rotate(90 8.5 29.5)"/><path fill="#3f51b5" d="M13 27H32V35H13z"/><path fill="#00c853" d="M13 18H32V26H13z"/><path fill="#ffc107" d="M5 10H24V15H5z"/><path fill="#ffc107" d="M13 12H24V17H13z"/><path fill="#03a9f4" d="M32 28H40V34H32z" transform="rotate(90 36 31)"/><path fill="#2196f3" d="M32.347 14.162H41.898V19.416H32.347z" transform="rotate(37.736 37.125 16.79)"/><path fill="#ec407a" d="M33.38 5.16H43.833V10.414H33.38z" transform="rotate(22.873 38.601 7.785)"/></svg>
