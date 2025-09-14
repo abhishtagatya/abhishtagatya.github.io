@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Abhishta</title>
+    <link>http://localhost:1313/zh-cn/tags/</link>
+    <description>Recent content in Tags on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/zh-cn/tags/markdown/</link>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>测试</title>
+      <link>http://localhost:1313/zh-cn/tags/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>提示框</title>
+      <link>http://localhost:1313/zh-cn/tags/%E6%8F%90%E7%A4%BA%E6%A1%86/</link>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E6%8F%90%E7%A4%BA%E6%A1%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Katex</title>
+      <link>http://localhost:1313/zh-cn/tags/katex/</link>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/katex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mermaid</title>
+      <link>http://localhost:1313/zh-cn/tags/mermaid/</link>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/mermaid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>数学</title>
+      <link>http://localhost:1313/zh-cn/tags/%E6%95%B0%E5%AD%A6/</link>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E6%95%B0%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>图表</title>
+      <link>http://localhost:1313/zh-cn/tags/%E5%9B%BE%E8%A1%A8/</link>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E5%9B%BE%E8%A1%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>图片</title>
+      <link>http://localhost:1313/zh-cn/tags/%E5%9B%BE%E7%89%87/</link>
+      <pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E5%9B%BE%E7%89%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>渲染</title>
+      <link>http://localhost:1313/zh-cn/tags/%E6%B8%B2%E6%9F%93/</link>
+      <pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E6%B8%B2%E6%9F%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>代码</title>
+      <link>http://localhost:1313/zh-cn/tags/%E4%BB%A3%E7%A0%81/</link>
+      <pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E4%BB%A3%E7%A0%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>语法高亮</title>
+      <link>http://localhost:1313/zh-cn/tags/%E8%AF%AD%E6%B3%95%E9%AB%98%E4%BA%AE/</link>
+      <pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E8%AF%AD%E6%B3%95%E9%AB%98%E4%BA%AE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>文档</title>
+      <link>http://localhost:1313/zh-cn/tags/%E6%96%87%E6%A1%A3/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E6%96%87%E6%A1%A3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>样式</title>
+      <link>http://localhost:1313/zh-cn/tags/%E6%A0%B7%E5%BC%8F/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/tags/%E6%A0%B7%E5%BC%8F/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphiques on Abhishta</title>
+    <link>http://localhost:1313/fr/tags/graphiques/</link>
+    <description>Recent content in Graphiques on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/graphiques/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test KaTeX et Mermaid</title>
+      <link>http://localhost:1313/fr/posts/katex-mermaid-test/</link>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/posts/katex-mermaid-test/</guid>
+      <description>&lt;h1 id=&#34;test-katex-et-mermaid&#34;&gt;Test KaTeX et Mermaid&lt;/h1&gt;&#xA;&lt;p&gt;Cet article est utilisé pour tester le rendu des formules mathématiques KaTeX et la fonctionnalité des graphiques Mermaid.&lt;/p&gt;&#xA;&lt;h2 id=&#34;test-des-graphiques-mermaid&#34;&gt;Test des Graphiques Mermaid&lt;/h2&gt;&#xA;&lt;h3 id=&#34;diagramme-de-flux&#34;&gt;Diagramme de Flux&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&lt;pre class=&#34;mermaid&#34;&gt;&#xA;  graph TD&#xA;    A[Début] --&amp;gt; B{Est-ce un utilisateur ?}&#xA;    B --&amp;gt;|Oui| C[Afficher l&amp;#39;interface utilisateur]&#xA;    B --&amp;gt;|Non| D[Afficher la page de connexion]&#xA;    C --&amp;gt; E[Opération utilisateur]&#xA;    D --&amp;gt; F[Connexion utilisateur]&#xA;    F --&amp;gt; G{Connexion réussie ?}&#xA;    G --&amp;gt;|Oui| C&#xA;    G --&amp;gt;|Non| H[Afficher le message d&amp;#39;erreur]&#xA;    H --&amp;gt; D&#xA;    E --&amp;gt; I[Fin]&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h3 id=&#34;diagramme-de-séquence&#34;&gt;Diagramme de Séquence&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&lt;pre class=&#34;mermaid&#34;&gt;&#xA;  sequenceDiagram&#xA;    participant Utilisateur&#xA;    participant Navigateur&#xA;    participant Serveur&#xA;    participant BaseDeDonnées&#xA;&#xA;    Utilisateur-&amp;gt;&amp;gt;Navigateur: Saisir l&amp;#39;URL&#xA;    Navigateur-&amp;gt;&amp;gt;Serveur: Envoyer la requête HTTP&#xA;    Serveur-&amp;gt;&amp;gt;BaseDeDonnées: Interroger les données&#xA;    BaseDeDonnées--&amp;gt;&amp;gt;Serveur: Retourner les données&#xA;    Serveur--&amp;gt;&amp;gt;Navigateur: Retourner le HTML&#xA;    Navigateur--&amp;gt;&amp;gt;Utilisateur: Afficher la page&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h3 id=&#34;diagramme-de-gantt&#34;&gt;Diagramme de Gantt&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&lt;pre class=&#34;mermaid&#34;&gt;&#xA;  gantt&#xA;    title Chronologie de Développement du Projet&#xA;    dateFormat  YYYY-MM-DD&#xA;    section Phase de Conception&#xA;    Analyse des besoins     :done,    des1, 2024-01-01,2024-01-05&#xA;    Conception UI          :done,    des2, 2024-01-06, 2024-01-12&#xA;    Création de prototype  :active,  des3, 2024-01-13, 2024-01-18&#xA;    section Phase de Développement&#xA;    Développement frontend :         dev1, 2024-01-19, 2024-02-15&#xA;    Développement backend  :         dev2, 2024-01-19, 2024-02-20&#xA;    Conception base données:         dev3, 2024-01-19, 2024-01-25&#xA;    section Phase de Test&#xA;    Tests unitaires        :         test1, 2024-02-16, 2024-02-25&#xA;    Tests d&amp;#39;intégration    :         test2, 2024-02-21, 2024-03-01&#xA;    Tests utilisateur      :         test3, 2024-02-26, 2024-03-05&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h2 id=&#34;test-katex&#34;&gt;Test KaTeX&lt;/h2&gt;&#xA;&lt;h3 id=&#34;formules-en-ligne&#34;&gt;Formules en Ligne&lt;/h3&gt;&#xA;&lt;p&gt;Ceci est une formule en ligne : $E = mc^2$, la formule d&amp;rsquo;équivalence masse-énergie d&amp;rsquo;Einstein.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

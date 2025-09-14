@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Abhishta</title>
+    <link>http://localhost:1313/zh-cn/tags/markdown/</link>
+    <description>Recent content in Markdown on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-cn/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub 风格提示框测试</title>
+      <link>http://localhost:1313/zh-cn/posts/test-alert/</link>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/posts/test-alert/</guid>
+      <description>&lt;h1 id=&#34;github-风格提示框测试&#34;&gt;GitHub 风格提示框测试&lt;/h1&gt;&#xA;&lt;p&gt;本文用于测试新的 GitHub 风格提示框功能和折叠功能。&lt;/p&gt;&#xA;&lt;h2 id=&#34;提示框语法&#34;&gt;提示框语法&lt;/h2&gt;&#xA;&lt;h3 id=&#34;注意提示框&#34;&gt;注意提示框&lt;/h3&gt;&#xA;&lt;div&#xA;    class=&#34;alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;&#xA;    style=&#34;background-color: color-mix(in srgb, var(--color-note) 10%, transparent);&#xA;              border-left-color: var(--color-note);&#xA;              --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);&#34;&#xA;    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;&#xA;    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-note) 10%, transparent)&#39;&#34;&#xA;    role=&#34;alert&#34;&#xA;    aria-labelledby=&#34;alert-0-title&#34;&gt;&#xA;    &#xA;    &lt;div&#xA;      class=&#34; flex items-center justify-between px-6 py-6&#34;&#xA;      &gt;&#xA;      &lt;div class=&#34;flex items-center gap-3&#34;&gt;&#xA;        &#xA;        &lt;h4&#xA;          id=&#34;alert-0-title&#34;&#xA;          class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;&#xA;          注意&#xA;        &lt;/h4&gt;&#xA;      &lt;/div&gt;&#xA;&#xA;      &#xA;      &#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div&#xA;      id=&#34;alert-0-content&#34;&#xA;      class=&#34;alert-content  px-6 pb-6&#34;&gt;&#xA;      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;&#xA;        &lt;p&gt;这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown 语法测试文档</title>
+      <link>http://localhost:1313/zh-cn/posts/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh-cn/posts/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid>
+      <description>这是一个包含各种 Markdown 语法的测试文档，用于验证文档样式的完整性。</description>
+    </item>
+  </channel>
+</rss>

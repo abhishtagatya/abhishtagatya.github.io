@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation on Abhishta</title>
+    <link>http://localhost:1313/tags/animation/</link>
+    <description>Recent content in Animation on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Keyboard &amp; Mouse Sprite Animation Library</title>
+      <link>http://localhost:1313/posts/building-a-keyboard-mouse-sprite-animation-library/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/building-a-keyboard-mouse-sprite-animation-library/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/MqrS7fHO6UY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h3 id=&#34;tldr&#34;&gt;TL;DR&lt;/h3&gt;&#xA;&lt;p&gt;This started as a small project to create a few sprites and a simple system for my game &lt;em&gt;Quality Assurance&lt;/em&gt; to handle sprite animations for CTAs. It grew into a fully modular animation library for Unity.&lt;/p&gt;&#xA;&lt;p&gt;The library is lightweight and fast, packed with 13+ base animations (Pulse, Slide, Node, Fade, etc.). All animations are modular and can be combined to create more complex effects. You can also script your own animations and run them through the library for easy management.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

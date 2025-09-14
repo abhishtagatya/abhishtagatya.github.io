@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steam on Abhishta</title>
+    <link>http://localhost:1313/tags/steam/</link>
+    <description>Recent content in Steam on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/steam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(On Going) Project: Quality Assurance</title>
+      <link>http://localhost:1313/posts/on-going-project-quality-assurance/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/on-going-project-quality-assurance/</guid>
+      <description>&lt;h3 id=&#34;tldr&#34;&gt;TL;DR&lt;/h3&gt;&#xA;&lt;p&gt;Quality Assurance is a solo game development project under the &lt;code&gt;Sekochi Games&lt;/code&gt; production. It&amp;rsquo;s main game design is inspired by &lt;a href=&#34;https://store.steampowered.com/app/2653790/The_Exit_8/&#34;target=&#34;_blank&#34;&#xA;  class=&#34;relative inline-flex items-center&#34;&#xA;&gt;Exit 8&#xA;  &lt;svg id=&#34;external-link&#34; class=&#34;h-3 w-3 ml-1 absolute top-0 right-0 transform translate-x-2/5 -translate-y-1/3&#34;&#xA;    fill=&#34;none&#34;&#xA;    stroke=&#34;currentColor&#34;&#xA;    viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/a&gt; with a Black Mirror-like story telling. In this game, you are transported into the meta-verse to be a Quality Assurance and make sure every asset is working correctly by inspecting its looks, function, sound, and placement. The game suddenly takes a steep turn depending on the ending you choose.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

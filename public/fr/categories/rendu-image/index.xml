@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rendu-Image on Abhishta</title>
+    <link>http://localhost:1313/fr/categories/rendu-image/</link>
+    <description>Recent content in Rendu-Image on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 16 Jan 2024 22:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/categories/rendu-image/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test de rendu d&#39;image</title>
+      <link>http://localhost:1313/fr/posts/test-de-rendu-dimage/</link>
+      <pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/posts/test-de-rendu-dimage/</guid>
+      <description>&lt;h1 id=&#34;test-de-rendu-dimage&#34;&gt;Test de rendu d&amp;rsquo;image&lt;/h1&gt;&#xA;&lt;p&gt;La démo provient de &lt;a href=&#34;https://www.lightgalleryjs.com/demos/thumbnails/&#34;target=&#34;_blank&#34;&#xA;  class=&#34;relative inline-flex items-center&#34;&#xA;&gt;LightGallery&#xA;  &lt;svg id=&#34;external-link&#34; class=&#34;h-3 w-3 ml-1 absolute top-0 right-0 transform translate-x-2/5 -translate-y-1/3&#34;&#xA;    fill=&#34;none&#34;&#xA;    stroke=&#34;currentColor&#34;&#xA;    viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/a&gt;&#xA;Toutes les images proviennent de &lt;a href=&#34;https://unsplash.com/&#34;target=&#34;_blank&#34;&#xA;  class=&#34;relative inline-flex items-center&#34;&#xA;&gt;Unsplash&#xA;  &lt;svg id=&#34;external-link&#34; class=&#34;h-3 w-3 ml-1 absolute top-0 right-0 transform translate-x-2/5 -translate-y-1/3&#34;&#xA;    fill=&#34;none&#34;&#xA;    stroke=&#34;currentColor&#34;&#xA;    viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

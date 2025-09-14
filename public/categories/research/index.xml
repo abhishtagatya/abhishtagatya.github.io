@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Abhishta</title>
+    <link>http://localhost:1313/categories/research/</link>
+    <description>Recent content in Research on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizing Brno in Unity</title>
+      <link>http://localhost:1313/posts/visualizing-brno-in-unity/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/visualizing-brno-in-unity/</guid>
+      <description>&lt;p&gt;During my time at &lt;strong&gt;HCILab&lt;/strong&gt;, under the supervision of &lt;strong&gt;Jonas Rosecký&lt;/strong&gt;, I developed &lt;strong&gt;GISMU&lt;/strong&gt;, a Unity-based system for visualizing geospatial data in 3D. The project focused on Brno, CZ, exploring how terrain, transport, and infrastructure data could be transformed into an interactive environment — with future potential for VR exploration.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-we-built&#34;&gt;What We Built&lt;/h3&gt;&#xA;&lt;p&gt;GISMU reconstructs Brno’s terrain from the &lt;strong&gt;2019 Digital Terrain Model&lt;/strong&gt; and layers it with multiple datasets, including:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

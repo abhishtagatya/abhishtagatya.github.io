@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>アラート on Abhishta</title>
+    <link>http://localhost:1313/ja/tags/%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88/</link>
+    <description>Recent content in アラート on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/tags/%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHubスタイルアラートテスト</title>
+      <link>http://localhost:1313/ja/posts/test-alert/</link>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/ja/posts/test-alert/</guid>
+      <description>&lt;h1 id=&#34;githubスタイルアラートテスト&#34;&gt;GitHubスタイルアラートテスト&lt;/h1&gt;&#xA;&lt;p&gt;この記事は新しいGitHubスタイルアラート機能と折りたたみ機能をテストするために使用されます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;アラート構文&#34;&gt;アラート構文&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ノートアラート&#34;&gt;ノートアラート&lt;/h3&gt;&#xA;&lt;div&#xA;    class=&#34;alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;&#xA;    style=&#34;background-color: color-mix(in srgb, var(--color-note) 10%, transparent);&#xA;              border-left-color: var(--color-note);&#xA;              --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);&#34;&#xA;    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;&#xA;    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-note) 10%, transparent)&#39;&#34;&#xA;    role=&#34;alert&#34;&#xA;    aria-labelledby=&#34;alert-0-title&#34;&gt;&#xA;    &#xA;    &lt;div&#xA;      class=&#34; flex items-center justify-between px-6 py-6&#34;&#xA;      &gt;&#xA;      &lt;div class=&#34;flex items-center gap-3&#34;&gt;&#xA;        &#xA;        &lt;h4&#xA;          id=&#34;alert-0-title&#34;&#xA;          class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;&#xA;          注意&#xA;        &lt;/h4&gt;&#xA;      &lt;/div&gt;&#xA;&#xA;      &#xA;      &#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div&#xA;      id=&#34;alert-0-content&#34;&#xA;      class=&#34;alert-content  px-6 pb-6&#34;&gt;&#xA;      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;&#xA;        &lt;p&gt;これはノートアラートボックスです。コンテンツを素早く閲覧している場合でも、ユーザーが注意すべき有用な情報を表示するために使用されます。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

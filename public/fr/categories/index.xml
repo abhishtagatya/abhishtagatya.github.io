@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Abhishta</title>
+    <link>http://localhost:1313/fr/categories/</link>
+    <description>Recent content in Categories on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/fr/categories/github/</link>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/categories/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathématiques-Graphiques</title>
+      <link>http://localhost:1313/fr/categories/math%C3%A9matiques-graphiques/</link>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/categories/math%C3%A9matiques-graphiques/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rendu-Image</title>
+      <link>http://localhost:1313/fr/categories/rendu-image/</link>
+      <pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/categories/rendu-image/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coloration-Code</title>
+      <link>http://localhost:1313/fr/categories/coloration-code/</link>
+      <pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/categories/coloration-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/fr/categories/test/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/categories/test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

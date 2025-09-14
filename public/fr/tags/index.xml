@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Abhishta</title>
+    <link>http://localhost:1313/fr/tags/</link>
+    <description>Recent content in Tags on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alerte</title>
+      <link>http://localhost:1313/fr/tags/alerte/</link>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/alerte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/fr/tags/markdown/</link>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/fr/tags/test/</link>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graphiques</title>
+      <link>http://localhost:1313/fr/tags/graphiques/</link>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/graphiques/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Katex</title>
+      <link>http://localhost:1313/fr/tags/katex/</link>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/katex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathématiques</title>
+      <link>http://localhost:1313/fr/tags/math%C3%A9matiques/</link>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/math%C3%A9matiques/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mermaid</title>
+      <link>http://localhost:1313/fr/tags/mermaid/</link>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/mermaid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image</title>
+      <link>http://localhost:1313/fr/tags/image/</link>
+      <pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/image/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rendu</title>
+      <link>http://localhost:1313/fr/tags/rendu/</link>
+      <pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/rendu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://localhost:1313/fr/tags/code/</link>
+      <pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coloration-Syntaxique</title>
+      <link>http://localhost:1313/fr/tags/coloration-syntaxique/</link>
+      <pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/coloration-syntaxique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prose</title>
+      <link>http://localhost:1313/fr/tags/prose/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/prose/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Style</title>
+      <link>http://localhost:1313/fr/tags/style/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/style/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

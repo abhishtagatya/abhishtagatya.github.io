@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "categories": [
+    "blog",
+    "technology",
+    "education"
+  ],
+  "description": "Abhishta Gatya Adyatma is a Game Developer, Technical Artist, Game Designer, and Narative Designer.",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "any",
+      "src": "/favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en-US",
+  "name": "Abhishta",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Abhishta Adyatma",
+  "start_url": "/",
+  "theme_color": "#09090b"
+}

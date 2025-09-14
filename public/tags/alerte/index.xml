@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alerte on Abhishta</title>
+    <link>http://localhost:1313/tags/alerte/</link>
+    <description>Recent content in Alerte on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jun 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/alerte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test d&#39;Alertes Style GitHub</title>
+      <link>http://localhost:1313/posts/test-alert/</link>
+      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test-alert/</guid>
+      <description>&lt;h1 id=&#34;test-dalertes-style-github&#34;&gt;Test d&amp;rsquo;Alertes Style GitHub&lt;/h1&gt;&#xA;&lt;p&gt;Cet article est utilisé pour tester la nouvelle fonctionnalité d&amp;rsquo;alertes style GitHub et la fonctionnalité de pliage.&lt;/p&gt;&#xA;&lt;h2 id=&#34;syntaxe-des-alertes&#34;&gt;Syntaxe des Alertes&lt;/h2&gt;&#xA;&lt;h3 id=&#34;alerte-note&#34;&gt;Alerte Note&lt;/h3&gt;&#xA;&lt;div&#xA;    class=&#34;alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;&#xA;    style=&#34;background-color: color-mix(in srgb, var(--color-note) 10%, transparent);&#xA;              border-left-color: var(--color-note);&#xA;              --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);&#34;&#xA;    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;&#xA;    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-note) 10%, transparent)&#39;&#34;&#xA;    role=&#34;alert&#34;&#xA;    aria-labelledby=&#34;alert-0-title&#34;&gt;&#xA;    &#xA;    &lt;div&#xA;      class=&#34; flex items-center justify-between px-6 py-6&#34;&#xA;      &gt;&#xA;      &lt;div class=&#34;flex items-center gap-3&#34;&gt;&#xA;        &#xA;        &lt;h4&#xA;          id=&#34;alert-0-title&#34;&#xA;          class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;&#xA;          Note&#xA;        &lt;/h4&gt;&#xA;      &lt;/div&gt;&#xA;&#xA;      &#xA;      &#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div&#xA;      id=&#34;alert-0-content&#34;&#xA;      class=&#34;alert-content  px-6 pb-6&#34;&gt;&#xA;      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;&#xA;        &lt;p&gt;Ceci est une boîte d&amp;rsquo;alerte note. Utilisée pour afficher des informations utiles dont les utilisateurs doivent être conscients, même lors d&amp;rsquo;un parcours rapide du contenu.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数学 on Abhishta</title>
+    <link>http://localhost:1313/ja/tags/%E6%95%B0%E5%AD%A6/</link>
+    <description>Recent content in 数学 on Abhishta</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 17 Jan 2024 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/tags/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KaTeXとMermaidテスト</title>
+      <link>http://localhost:1313/ja/posts/katex-mermaid-test/</link>
+      <pubDate>Wed, 17 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/ja/posts/katex-mermaid-test/</guid>
+      <description>&lt;h1 id=&#34;katexとmermaidテスト&#34;&gt;KaTeXとMermaidテスト&lt;/h1&gt;&#xA;&lt;p&gt;この記事はKaTeX数式レンダリングとMermaidチャート機能をテストするために使用されます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;mermaidチャートテスト&#34;&gt;Mermaidチャートテスト&lt;/h2&gt;&#xA;&lt;h3 id=&#34;フローチャート&#34;&gt;フローチャート&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&lt;pre class=&#34;mermaid&#34;&gt;&#xA;  graph TD&#xA;    A[開始] --&amp;gt; B{ユーザーですか？}&#xA;    B --&amp;gt;|はい| C[ユーザーインターフェースを表示]&#xA;    B --&amp;gt;|いいえ| D[ログインページを表示]&#xA;    C --&amp;gt; E[ユーザー操作]&#xA;    D --&amp;gt; F[ユーザーログイン]&#xA;    F --&amp;gt; G{ログイン成功？}&#xA;    G --&amp;gt;|はい| C&#xA;    G --&amp;gt;|いいえ| H[エラーメッセージを表示]&#xA;    H --&amp;gt; D&#xA;    E --&amp;gt; I[終了]&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h3 id=&#34;シーケンス図&#34;&gt;シーケンス図&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&lt;pre class=&#34;mermaid&#34;&gt;&#xA;  sequenceDiagram&#xA;    participant ユーザー&#xA;    participant ブラウザ&#xA;    participant サーバー&#xA;    participant データベース&#xA;&#xA;    ユーザー-&amp;gt;&amp;gt;ブラウザ: URLを入力&#xA;    ブラウザ-&amp;gt;&amp;gt;サーバー: HTTPリクエストを送信&#xA;    サーバー-&amp;gt;&amp;gt;データベース: データを照会&#xA;    データベース--&amp;gt;&amp;gt;サーバー: データを返す&#xA;    サーバー--&amp;gt;&amp;gt;ブラウザ: HTMLを返す&#xA;    ブラウザ--&amp;gt;&amp;gt;ユーザー: ページを表示&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h3 id=&#34;ガントチャート&#34;&gt;ガントチャート&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&lt;pre class=&#34;mermaid&#34;&gt;&#xA;  gantt&#xA;    title プロジェクト開発タイムライン&#xA;    dateFormat  YYYY-MM-DD&#xA;    section 設計段階&#xA;    要件分析           :done,    des1, 2024-01-01,2024-01-05&#xA;    UI設計            :done,    des2, 2024-01-06, 2024-01-12&#xA;    プロトタイプ作成    :active,  des3, 2024-01-13, 2024-01-18&#xA;    section 開発段階&#xA;    フロントエンド開発  :         dev1, 2024-01-19, 2024-02-15&#xA;    バックエンド開発    :         dev2, 2024-01-19, 2024-02-20&#xA;    データベース設計    :         dev3, 2024-01-19, 2024-01-25&#xA;    section テスト段階&#xA;    単体テスト         :         test1, 2024-02-16, 2024-02-25&#xA;    統合テスト         :         test2, 2024-02-21, 2024-03-01&#xA;    ユーザーテスト     :         test3, 2024-02-26, 2024-03-05&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h2 id=&#34;katexテスト&#34;&gt;KaTeXテスト&lt;/h2&gt;&#xA;&lt;h3 id=&#34;インライン数式&#34;&gt;インライン数式&lt;/h3&gt;&#xA;&lt;p&gt;これはインライン数式です：$E = mc^2$、アインシュタインの質量エネルギー等価式。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
