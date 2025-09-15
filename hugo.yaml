@@ -61,7 +61,7 @@ menus:
       params:
         icon: about
     - name: Contact
-      url: https://google.com
+      url: mailto:abhishtagatya@yahoo.com
       weight: 20
       params:
         icon: contact
@@ -266,8 +266,8 @@ params:
       enabled: false
       analytics: "your-clarity-analytics-id"
     google:
-      enabled: false
-      id: "your-google-analytics-id"
+      enabled: true
+      id: "G-PTTE1ZZCYN"
     umami: 
       enabled: false
       id: "your-umami-website-id"
