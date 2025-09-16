@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sprite on Abhishta</title>
-    <link>https://abhishtagatya.github.io/tags/sprite/</link>
+    <link>http://localhost:58596/tags/sprite/</link>
     <description>Recent content in Sprite on Abhishta</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="https://abhishtagatya.github.io/tags/sprite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58596/tags/sprite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making a Fast and Featureful Color Changing Tool</title>
-      <link>https://abhishtagatya.github.io/posts/making-a-fast-and-featureful-color-changing-tool/</link>
+      <link>http://localhost:58596/posts/making-a-fast-and-featureful-color-changing-tool/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0100</pubDate>
-      <guid>https://abhishtagatya.github.io/posts/making-a-fast-and-featureful-color-changing-tool/</guid>
-      <description>&lt;p&gt;&#xA;&lt;figure class=&#34;image-figure not-prose my-8&#34; &#xA;        data-lightbox-enabled=&#34;true&#34;&#xA;        data-gallery-type=&#34;auto&#34;&gt;&#xA;  &lt;div class=&#34;image-container&#34;&gt;&#xA;    &lt;img&#xA;    src=&#34;https://abhishtagatya.github.io/posts/making-a-fast-and-featureful-color-changing-tool/preview.png&#34;&#xA;    alt=&#34;&#34;&#xA;    title=&#34;Paleta Preview&#34;&#xA;    &#xA;      &#xA;      &#xA;        &#xA;    width=&#34;1024&#34;&#xA;    height=&#34;1024&#34;&#xA;        &#xA;      &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    data-gallery-src=&#34;https://abhishtagatya.github.io/posts/making-a-fast-and-featureful-color-changing-tool/preview.png&#34;&#xA;    data-gallery-alt=&#34;&#34;&#xA;    data-gallery-title=&#34;Paleta Preview&#34; /&gt;&lt;/div&gt;&#xA;&#xA;  &lt;figcaption class=&#34;image-caption&#34;&gt;&#xA;      Paleta Preview&#xA;    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;&#xA;&lt;p&gt;Paleta is a powerful Color Palette Extraction and Management Tool designed to enhance visual game assets. It allows designers &amp;amp; developers to extract, convert, mix, minimize, and match color palettes effortlessly.&lt;/p&gt;&#xA;&lt;p&gt;Colors are treated as vectors (RGBA), while palettes are sets of colors supporting union, intersection, addition, and removal. Paleta integrates with Lospec for importing palettes and provides functions for mapping between palettes using distance metrics or custom algorithms. Users can also export palettes or map them onto images.&lt;/p&gt;</description>
+      <guid>http://localhost:58596/posts/making-a-fast-and-featureful-color-changing-tool/</guid>
+      <description>&lt;p&gt;&#xA;&lt;figure class=&#34;image-figure not-prose my-8&#34; &#xA;        data-lightbox-enabled=&#34;true&#34;&#xA;        data-gallery-type=&#34;auto&#34;&gt;&#xA;  &lt;div class=&#34;image-container&#34;&gt;&#xA;    &lt;img&#xA;    src=&#34;http://localhost:58596/posts/making-a-fast-and-featureful-color-changing-tool/preview.png&#34;&#xA;    alt=&#34;&#34;&#xA;    title=&#34;Paleta Preview&#34;&#xA;    &#xA;      &#xA;      &#xA;        &#xA;    width=&#34;1024&#34;&#xA;    height=&#34;1024&#34;&#xA;        &#xA;      &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    data-gallery-src=&#34;http://localhost:58596/posts/making-a-fast-and-featureful-color-changing-tool/preview.png&#34;&#xA;    data-gallery-alt=&#34;&#34;&#xA;    data-gallery-title=&#34;Paleta Preview&#34; /&gt;&lt;/div&gt;&#xA;&#xA;  &lt;figcaption class=&#34;image-caption&#34;&gt;&#xA;      Paleta Preview&#xA;    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;&#xA;&lt;p&gt;Paleta is a powerful Color Palette Extraction and Management Tool designed to enhance visual game assets. It allows designers &amp;amp; developers to extract, convert, mix, minimize, and match color palettes effortlessly.&lt;/p&gt;&#xA;&lt;p&gt;Colors are treated as vectors (RGBA), while palettes are sets of colors supporting union, intersection, addition, and removal. Paleta integrates with Lospec for importing palettes and provides functions for mapping between palettes using distance metrics or custom algorithms. Users can also export palettes or map them onto images.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

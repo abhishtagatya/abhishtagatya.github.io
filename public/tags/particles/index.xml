@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Particles on Abhishta</title>
-    <link>https://abhishtagatya.github.io/tags/particles/</link>
+    <link>http://localhost:58596/tags/particles/</link>
     <description>Recent content in Particles on Abhishta</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0100</lastBuildDate>
-    <atom:link href="https://abhishtagatya.github.io/tags/particles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58596/tags/particles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Particle Simulation Playground in OpenGL</title>
-      <link>https://abhishtagatya.github.io/posts/particle-simulation-playground-in-opengl/</link>
+      <link>http://localhost:58596/posts/particle-simulation-playground-in-opengl/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://abhishtagatya.github.io/posts/particle-simulation-playground-in-opengl/</guid>
-      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;This project is a &lt;strong&gt;GPU-accelerated particle simulation&lt;/strong&gt; built with OpenGL. Motion is calculated using &lt;strong&gt;vertex and compute shaders&lt;/strong&gt;, where each particle follows defined rules of interaction and evolution.&lt;/p&gt;&#xA;&lt;p&gt;The playground allows experimenting with different particle behaviors, from simple spawning to complex N-body simulations and mesh surface interactions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Spawning Particle Program&lt;/strong&gt;&lt;br&gt;&#xA;Particles spawn with random lifetime, velocity, and color within a defined area.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;figure class=&#34;image-figure not-prose my-8&#34; &#xA;        data-lightbox-enabled=&#34;true&#34;&#xA;        data-gallery-type=&#34;auto&#34;&gt;&#xA;  &lt;div class=&#34;image-container&#34;&gt;&#xA;    &lt;img&#xA;    src=&#34;https://abhishtagatya.github.io/posts/particle-simulation-playground-in-opengl/spawn.gif&#34;&#xA;    alt=&#34;&#34;&#xA;    &#xA;    &#xA;      &#xA;      &#xA;        &#xA;    width=&#34;1280&#34;&#xA;    height=&#34;720&#34;&#xA;        &#xA;      &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    data-gallery-src=&#34;https://abhishtagatya.github.io/posts/particle-simulation-playground-in-opengl/spawn.gif&#34;&#xA;    data-gallery-alt=&#34;&#34;&#xA;    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;&#xA;&#xA;  &lt;/figure&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:58596/posts/particle-simulation-playground-in-opengl/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;This project is a &lt;strong&gt;GPU-accelerated particle simulation&lt;/strong&gt; built with OpenGL. Motion is calculated using &lt;strong&gt;vertex and compute shaders&lt;/strong&gt;, where each particle follows defined rules of interaction and evolution.&lt;/p&gt;&#xA;&lt;p&gt;The playground allows experimenting with different particle behaviors, from simple spawning to complex N-body simulations and mesh surface interactions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Spawning Particle Program&lt;/strong&gt;&lt;br&gt;&#xA;Particles spawn with random lifetime, velocity, and color within a defined area.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;figure class=&#34;image-figure not-prose my-8&#34; &#xA;        data-lightbox-enabled=&#34;true&#34;&#xA;        data-gallery-type=&#34;auto&#34;&gt;&#xA;  &lt;div class=&#34;image-container&#34;&gt;&#xA;    &lt;img&#xA;    src=&#34;http://localhost:58596/posts/particle-simulation-playground-in-opengl/spawn.gif&#34;&#xA;    alt=&#34;&#34;&#xA;    &#xA;    &#xA;      &#xA;      &#xA;        &#xA;    width=&#34;1280&#34;&#xA;    height=&#34;720&#34;&#xA;        &#xA;      &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    data-gallery-src=&#34;http://localhost:58596/posts/particle-simulation-playground-in-opengl/spawn.gif&#34;&#xA;    data-gallery-alt=&#34;&#34;&#xA;    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;&#xA;&#xA;  &lt;/figure&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

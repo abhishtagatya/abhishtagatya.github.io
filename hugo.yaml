@@ -113,13 +113,13 @@ params:
     avatar: "/images/PhotoFramed.png"
     social:
       - name: "GitHub"
-        url: "https://github.com/username"
+        url: "https://github.com/abhishtagatya"
         icon: "github"
       - name: "Twitter"
-        url: "https://twitter.com/username"
+        url: "https://x.com/abhishtagatya"
         icon: "twitter"
       - name: "Email"
-        url: "mailto:hello@example.com"
+        url: "mailto:abhishta@yahoo.com"
         icon: "email"
 
   experience:
