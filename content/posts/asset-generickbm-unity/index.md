@@ -10,9 +10,12 @@ lightbox:
 cover: "cover.png"
 ---
 
-{{< youtube MqrS7fHO6UY  >}}
+{{< youtube 7BmosOk9iag  >}}
 
 ### TL;DR
+
+[Unity Asset Store](https://u3d.as/3DJ2)
+[Itch Sprite Only Version](https://abhishta.itch.io/generick-kbm)
 
 This started as a small project to create a few sprites and a simple system for my game *Quality Assurance* to handle sprite animations for CTAs. It grew into a fully modular animation library for Unity.  
 
