@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blueprints Programming on Abhishta</title>
-    <link>http://localhost:1313/tags/blueprints-programming/</link>
+    <link>https://abhishtagatya.github.io/tags/blueprints-programming/</link>
     <description>Recent content in Blueprints Programming on Abhishta</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blueprints-programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://abhishtagatya.github.io/tags/blueprints-programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Simple Space Distortion with Mask-Enabled in UE 5.5</title>
-      <link>http://localhost:1313/posts/simple-space-distortion-with-mask-enabled-in-ue-5.5/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/simple-space-distortion-with-mask-enabled-in-ue-5.5/</guid>
-      <description></description>
+      <title>Building a Skinned Mesh Local Distortion Effect in UE5</title>
+      <link>https://abhishtagatya.github.io/posts/building-a-skinned-mesh-local-distortion-effect-in-ue5/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0100</pubDate>
+      <guid>https://abhishtagatya.github.io/posts/building-a-skinned-mesh-local-distortion-effect-in-ue5/</guid>
+      <description>&lt;p&gt;&#xA;&lt;figure class=&#34;image-figure not-prose my-8&#34; &#xA;        data-lightbox-enabled=&#34;true&#34;&#xA;        data-gallery-type=&#34;auto&#34;&gt;&#xA;  &lt;div class=&#34;image-container&#34;&gt;&#xA;    &lt;img&#xA;    src=&#34;https://abhishtagatya.github.io/posts/building-a-skinned-mesh-local-distortion-effect-in-ue5/cover.gif&#34;&#xA;    alt=&#34;&#34;&#xA;    title=&#34;Preview&#34;&#xA;    &#xA;      &#xA;      &#xA;        &#xA;    width=&#34;1920&#34;&#xA;    height=&#34;1022&#34;&#xA;        &#xA;      &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    data-gallery-src=&#34;https://abhishtagatya.github.io/posts/building-a-skinned-mesh-local-distortion-effect-in-ue5/cover.gif&#34;&#xA;    data-gallery-alt=&#34;&#34;&#xA;    data-gallery-title=&#34;Preview&#34; /&gt;&lt;/div&gt;&#xA;&#xA;  &lt;figcaption class=&#34;image-caption&#34;&gt;&#xA;      Preview&#xA;    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;In my recent internship, one of the characters requires a special VFX around its body to enhance its visual elements. One of them was a distortion effect local to character as if the character was bending light. The distortion effect requires it to be local to the Skinned Mesh and easy to control by the Level Desginer.&lt;/p&gt;&#xA;&lt;p&gt;This article describes how I implemented a &lt;strong&gt;custom niagara effect to distort space only within a masked area&lt;/strong&gt; in Unreal Engine 5.5 using Niagara Particle System.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

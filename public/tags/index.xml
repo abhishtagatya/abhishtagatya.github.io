@@ -2,150 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Abhishta</title>
-    <link>http://localhost:58596/tags/</link>
+    <link>https://abhishtagatya.github.io/tags/</link>
     <description>Recent content in Tags on Abhishta</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:58596/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishtagatya.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animation</title>
-      <link>http://localhost:58596/tags/animation/</link>
+      <link>https://abhishtagatya.github.io/tags/animation/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/animation/</guid>
+      <guid>https://abhishtagatya.github.io/tags/animation/</guid>
       <description></description>
     </item>
     <item>
       <title>C# Programming</title>
-      <link>http://localhost:58596/tags/c%23-programming/</link>
+      <link>https://abhishtagatya.github.io/tags/c%23-programming/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/c%23-programming/</guid>
+      <guid>https://abhishtagatya.github.io/tags/c%23-programming/</guid>
       <description></description>
     </item>
     <item>
       <title>UI</title>
-      <link>http://localhost:58596/tags/ui/</link>
+      <link>https://abhishtagatya.github.io/tags/ui/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/ui/</guid>
+      <guid>https://abhishtagatya.github.io/tags/ui/</guid>
       <description></description>
     </item>
     <item>
       <title>Unity</title>
-      <link>http://localhost:58596/tags/unity/</link>
+      <link>https://abhishtagatya.github.io/tags/unity/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/unity/</guid>
+      <guid>https://abhishtagatya.github.io/tags/unity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blueprints Programming</title>
+      <link>https://abhishtagatya.github.io/tags/blueprints-programming/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0100</pubDate>
+      <guid>https://abhishtagatya.github.io/tags/blueprints-programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Mechanics</title>
-      <link>http://localhost:58596/tags/game-mechanics/</link>
+      <link>https://abhishtagatya.github.io/tags/game-mechanics/</link>
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/game-mechanics/</guid>
+      <guid>https://abhishtagatya.github.io/tags/game-mechanics/</guid>
       <description></description>
     </item>
     <item>
       <title>Rendering</title>
-      <link>http://localhost:58596/tags/rendering/</link>
+      <link>https://abhishtagatya.github.io/tags/rendering/</link>
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/rendering/</guid>
+      <guid>https://abhishtagatya.github.io/tags/rendering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unreal Engine 5</title>
+      <link>https://abhishtagatya.github.io/tags/unreal-engine-5/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0100</pubDate>
+      <guid>https://abhishtagatya.github.io/tags/unreal-engine-5/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Design</title>
-      <link>http://localhost:58596/tags/game-design/</link>
+      <link>https://abhishtagatya.github.io/tags/game-design/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/game-design/</guid>
+      <guid>https://abhishtagatya.github.io/tags/game-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Development</title>
-      <link>http://localhost:58596/tags/game-development/</link>
+      <link>https://abhishtagatya.github.io/tags/game-development/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/game-development/</guid>
+      <guid>https://abhishtagatya.github.io/tags/game-development/</guid>
       <description></description>
     </item>
     <item>
       <title>HLSL Programming</title>
-      <link>http://localhost:58596/tags/hlsl-programming/</link>
+      <link>https://abhishtagatya.github.io/tags/hlsl-programming/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/hlsl-programming/</guid>
+      <guid>https://abhishtagatya.github.io/tags/hlsl-programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Shaders</title>
-      <link>http://localhost:58596/tags/shaders/</link>
+      <link>https://abhishtagatya.github.io/tags/shaders/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/shaders/</guid>
+      <guid>https://abhishtagatya.github.io/tags/shaders/</guid>
       <description></description>
     </item>
     <item>
       <title>Shapefile</title>
-      <link>http://localhost:58596/tags/shapefile/</link>
+      <link>https://abhishtagatya.github.io/tags/shapefile/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/shapefile/</guid>
+      <guid>https://abhishtagatya.github.io/tags/shapefile/</guid>
       <description></description>
     </item>
     <item>
       <title>GLSL Programming</title>
-      <link>http://localhost:58596/tags/glsl-programming/</link>
+      <link>https://abhishtagatya.github.io/tags/glsl-programming/</link>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/glsl-programming/</guid>
+      <guid>https://abhishtagatya.github.io/tags/glsl-programming/</guid>
       <description></description>
     </item>
     <item>
       <title> Pixel Art</title>
-      <link>http://localhost:58596/tags/-pixel-art/</link>
+      <link>https://abhishtagatya.github.io/tags/-pixel-art/</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/-pixel-art/</guid>
+      <guid>https://abhishtagatya.github.io/tags/-pixel-art/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:58596/tags/python/</link>
+      <link>https://abhishtagatya.github.io/tags/python/</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/python/</guid>
+      <guid>https://abhishtagatya.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Skybox</title>
-      <link>http://localhost:58596/tags/skybox/</link>
+      <link>https://abhishtagatya.github.io/tags/skybox/</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/skybox/</guid>
+      <guid>https://abhishtagatya.github.io/tags/skybox/</guid>
       <description></description>
     </item>
     <item>
       <title>C&#43;&#43; Programming</title>
-      <link>http://localhost:58596/tags/c&#43;&#43;-programming/</link>
+      <link>https://abhishtagatya.github.io/tags/c&#43;&#43;-programming/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/c&#43;&#43;-programming/</guid>
+      <guid>https://abhishtagatya.github.io/tags/c&#43;&#43;-programming/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenGL</title>
-      <link>http://localhost:58596/tags/opengl/</link>
+      <link>https://abhishtagatya.github.io/tags/opengl/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/opengl/</guid>
+      <guid>https://abhishtagatya.github.io/tags/opengl/</guid>
       <description></description>
     </item>
     <item>
       <title>Particles</title>
-      <link>http://localhost:58596/tags/particles/</link>
+      <link>https://abhishtagatya.github.io/tags/particles/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/particles/</guid>
+      <guid>https://abhishtagatya.github.io/tags/particles/</guid>
       <description></description>
     </item>
     <item>
       <title>LUT</title>
-      <link>http://localhost:58596/tags/lut/</link>
+      <link>https://abhishtagatya.github.io/tags/lut/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/lut/</guid>
+      <guid>https://abhishtagatya.github.io/tags/lut/</guid>
       <description></description>
     </item>
     <item>
       <title>Sprite</title>
-      <link>http://localhost:58596/tags/sprite/</link>
+      <link>https://abhishtagatya.github.io/tags/sprite/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/tags/sprite/</guid>
+      <guid>https://abhishtagatya.github.io/tags/sprite/</guid>
       <description></description>
     </item>
   </channel>

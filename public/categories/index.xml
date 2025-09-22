@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Abhishta</title>
-    <link>http://localhost:58596/categories/</link>
+    <link>https://abhishtagatya.github.io/categories/</link>
     <description>Recent content in Categories on Abhishta</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:58596/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishtagatya.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Assets</title>
-      <link>http://localhost:58596/categories/game-assets/</link>
+      <link>https://abhishtagatya.github.io/categories/game-assets/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/categories/game-assets/</guid>
+      <guid>https://abhishtagatya.github.io/categories/game-assets/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Mechanics</title>
-      <link>http://localhost:58596/categories/game-mechanics/</link>
+      <link>https://abhishtagatya.github.io/categories/game-mechanics/</link>
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/categories/game-mechanics/</guid>
+      <guid>https://abhishtagatya.github.io/categories/game-mechanics/</guid>
       <description></description>
     </item>
     <item>
       <title>Game</title>
-      <link>http://localhost:58596/categories/game/</link>
+      <link>https://abhishtagatya.github.io/categories/game/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/categories/game/</guid>
+      <guid>https://abhishtagatya.github.io/categories/game/</guid>
       <description></description>
     </item>
     <item>
       <title>Experiment</title>
-      <link>http://localhost:58596/categories/experiment/</link>
+      <link>https://abhishtagatya.github.io/categories/experiment/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/categories/experiment/</guid>
+      <guid>https://abhishtagatya.github.io/categories/experiment/</guid>
       <description></description>
     </item>
     <item>
       <title>Tool</title>
-      <link>http://localhost:58596/categories/tool/</link>
+      <link>https://abhishtagatya.github.io/categories/tool/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:58596/categories/tool/</guid>
+      <guid>https://abhishtagatya.github.io/categories/tool/</guid>
       <description></description>
     </item>
   </channel>
