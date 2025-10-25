@@ -16,7 +16,7 @@ cover: "cover.png"
 
 Experimenting to create a Hologram VFX using Shader Graph & VFX Graph that works for any model and making it as modular as possible. More in my ArtStation.
 
-[](https://www.artstation.com/artwork/XJL4ml)
+[ArtStation](https://www.artstation.com/artwork/XJL4ml)
 
 ---
 
