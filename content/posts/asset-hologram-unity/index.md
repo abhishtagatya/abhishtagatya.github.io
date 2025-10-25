@@ -44,7 +44,7 @@ Lastly, to make this effect shine, we can use a Fresnel to be multiplied or adde
 
 We also can implement some texture tinting to the model so that if the model has a texture, we can display it with the tint that maybe similar to the hologram color and show more detail of the mesh.
 
-![](grid.png "Fresnel and Texture Tinting in Shader Graph")
+![](fresnel.png "Fresnel and Texture Tinting in Shader Graph")
 
 #### Displacement
 
