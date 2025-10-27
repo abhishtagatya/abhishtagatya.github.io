@@ -9,7 +9,7 @@ lightbox:
   enabled: true
 justified_gallery:
   enabled: true
-cover: "cover.png"
+cover: "pot.png"
 ---
 
 ![](pot.png "Photo Tagging System Demo")
