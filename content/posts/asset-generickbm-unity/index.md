@@ -1,5 +1,5 @@
 ---
-title: "Building a Keyboard & Mouse Sprite Animation Library"
+title: "Generic Keyboard & Mouse Sprite Animation Library"
 date: 2025-09-14T00:00:00+01:00
 draft: false
 description: "Creating Modular Scripted Animation for Unity UGUI"

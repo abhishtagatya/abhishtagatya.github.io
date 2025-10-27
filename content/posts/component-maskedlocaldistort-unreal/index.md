@@ -1,8 +1,8 @@
 ---
-title: "Building a Skinned Mesh Local Distortion Effect in UE5"
+title: "Mesh Local Distortion Effect in UE5"
 date: 2025-08-05T00:00:00+01:00
 draft: false
-description: "Creating VFX Local to a Skinned Mesh using Stencil Mask"
+description: "VFX Local Mesh Distortion using Stencil Mask"
 tags: ["Unreal Engine 5", "Blueprints Programming", "Rendering", "Game Mechanics"]
 categories: ["Game Mechanics"]
 lightbox:

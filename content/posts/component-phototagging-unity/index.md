@@ -1,8 +1,8 @@
 ---
-title: "Building a Custom Color Tag Encoding Pass in Unity URP"
+title: "Photo Tagging System in Unity 6 URP"
 date: 2025-08-05T00:00:00+01:00
 draft: false
-description: "How to encode per-object tags into a render target using Unity's ScriptableRendererFeature and MaterialPropertyBlock."
+description: "Offscreen Rendering to Encode Information into a RenderTarget to Sample"
 tags: ["Unity", "C# Programming", "Rendering", "Game Mechanics"]
 categories: ["Game Mechanics"]
 lightbox:
@@ -12,10 +12,7 @@ justified_gallery:
 cover: "cover.png"
 ---
 
-{{< masonry columns=2 gutter=15 >}}
-![](snapshot-a.png "Quality Assurance (Beta Snapshot)")
-![](cover.png "Color Tag Debug View (Per-Category Tags)")
-{{< /masonry >}}
+![](pot.png "Photo Tagging System Demo")
 
 ### Introduction
 
@@ -154,6 +151,11 @@ Key points:
 
 Later shaders or scripts can sample this render target for gameplay mechanics like selection, masking, or highlighting.
 
+{{< masonry columns=2 gutter=15 >}}
+![](snapshot-a.png "Quality Assurance (Beta Snapshot)")
+![](cover.png "Color Tag Debug View (Per-Category Tags)")
+{{< /masonry >}}
+
 #### Using the Render Target
 
 Once rendered, the tag buffer can be used:
@@ -162,6 +164,50 @@ Once rendered, the tag buffer can be used:
 - To handle dynamic interactions without exposing information to players.
 
 For instance, you can render it just once per frame to a RenderTexture and immediately disable the pass to avoid showing it in-game.
+
+#### Sampling the Render Target
+
+Once the render target is captured, we can sample this texture to get it's tag. It is as simple as locating the pixel on the normal render and sampling it from the tags render target texture. We can use this code to sample it.
+
+```c#
+public void OnPointerClick(PointerEventData eventData)
+    {
+        // Convert to Local Space
+        Vector2 localPoint;
+        RectTransformUtility.ScreenPointToLocalPointInRectangle(
+            rawImage.rectTransform,
+            eventData.position,
+            eventData.pressEventCamera,
+            out localPoint
+        );
+
+        // Convert to UV
+        Rect rect = rawImage.rectTransform.rect;
+        float uvX = Mathf.InverseLerp(rect.xMin, rect.xMax, localPoint.x);
+        float uvY = Mathf.InverseLerp(rect.yMin, rect.yMax, localPoint.y);
+
+        // Convert to Pixel Coord
+        int px = Mathf.FloorToInt(uvX * tagSnapshotTexture.width);
+        int py = Mathf.FloorToInt(uvY * tagSnapshotTexture.height);
+        
+        // Read Texture
+        Color tagColor = SampleTexture(tagSnapshotTexture, px, py);
+        Color objectTagColor = SampleTexture(objectTagSnapshotTexture, px, py);
+
+        // Visual Debug
+        if (marker != null)
+        {
+            marker.SetParent(rawImage.rectTransform, false);
+            
+            // From UV to Local
+            float lx = Mathf.Lerp(rect.xMin, rect.xMax, uvX);
+            float ly = Mathf.Lerp(rect.yMin, rect.yMax, uvY);
+            marker.localPosition = new Vector3(lx, ly, 0f);
+        }
+
+        Debug.Log($"Click UV=({uvX:F3},{uvY:F3})  Pixel=({px},{py})  TagColor={tagColor}  ObjectTagColor={objectTagColor}");
+    }
+```
 
 ### Limitations
 
