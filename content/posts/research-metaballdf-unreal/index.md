@@ -1,6 +1,6 @@
 ---
 title: "Metaballs in Unreal Engine using Distance Fields"
-date: 2025-03-02T00:00:00+01:00
+date: 2025-10-31T00:00:00+01:00
 draft: false
 description: "Experimenting with Distance Fields Deformation to Approximate Metaballs"
 tags: ["Unreal Engine 5", "HLSL Programming", "Materials", "VFX"]
