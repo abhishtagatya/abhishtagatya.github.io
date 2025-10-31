@@ -2,7 +2,7 @@
 title: "Hologram VFX in Unity 6 URP"
 date: 2025-10-24T00:00:00+01:00
 draft: false
-description: "Using Shader Graph and VFX Graph"
+description: "Holograms VFX Breakdown using Shader Graph and VFX Graph"
 tags: ["Unity", "HLSL Programming", "VFX Programming", "VFX"]
 categories: ["Game Assets"]
 lightbox:
