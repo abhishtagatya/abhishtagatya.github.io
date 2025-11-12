@@ -1,6 +1,6 @@
 ---
 title: "Metaballs in Unreal Engine using Distance Fields"
-date: 2025-10-31T00:00:00+01:00
+date: 2025-11-12T00:00:00+01:00
 draft: false
 description: "Experimenting with Distance Fields Deformation to Approximate Metaballs"
 tags: ["Unreal Engine 5", "HLSL Programming", "Materials", "VFX"]
@@ -12,13 +12,11 @@ justified_gallery:
 cover: "demo.gif"
 ---
 
-{{< youtube MI-HQpUe-aI >}}
-
 ### TL;DR
 
 Making a Metaball VFX in Unreal Engine 5 using Distance Field Deformation and Subsurface Material.
 
-[ArtStation](https://www.artstation.com/artwork/qJVmzz)
+[ArtStation](https://www.artstation.com/artwork/nJ9GxE)
 
 ---
 

@@ -7,16 +7,18 @@ tags: ["Unity", "HLSL Programming", "VFX Programming", "VFX"]
 categories: ["Game Assets"]
 lightbox:
   enabled: true
-cover: "cover.png"
+cover: "demo.gif"
 ---
 
-{{< youtube 8y3PgXoZJTM  >}}
+{{< youtube F-Qd_CvJcIY  >}}
 
 ### TL;DR
 
 Experimenting to create a Hologram VFX using Shader Graph & VFX Graph that works for any model and making it as modular as possible. More in my ArtStation.
 
 [ArtStation](https://www.artstation.com/artwork/XJL4ml)
+
+[Unity Asset Store](https://u3d.as/3HU8)
 
 ---
 
@@ -77,9 +79,6 @@ In order to achieve this, I use Unity's VFX Graph to spawn particles from a poin
 Using sprites are ideal because they are cheap, no real volumetric calculation is required to achieve this and even with low spawn rate, this effect will still look as intendid.
 
 Thus, I use a simple fountain emitter tweaked with values to control the spawning and decay of particles for both foggy lights and specs of dust and apply some textures to use for both. The final graph shows two emitters both control independently with basic textures I made.
-
-
-![](projector.png "Hologram Projector in VFX Graph")
 
 
 ### Putting it All Together
